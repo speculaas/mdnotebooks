@@ -284,7 +284,7 @@ $ ps aux | grep ceph
 * 沒有啟動Ceph OSD Daemon 請查閱 Troubleshooting (TBST) 文件
 
 
-### 設定Ceph CRUSH Map
+## 設定Ceph CRUSH Map
 * 搬移 osd 到指定host、root上
 ```
 $ ceph osd crush add osd.0 1.0 root=cacheDefault host=SSD_HOST_01
@@ -309,7 +309,7 @@ $ ceph osd crush rule create-replicated hdd default host hdd
 ### 建立 Erasure Code crush rule
 * ceph osd crush rule create-erasure {rulename} {profilename}
 
-* 下列範例先建立 k=3, m=2, failure domain= rack 的 profile 藉著用於建立 erasure code crush rule
+* 下列範例先建立 k=3, m=2, failure domain= rack 的 profile 接著用來建立 erasure code crush rule
 ```
 $ ceph osd erasure-code-profile set myprofile \
    k=3 \
@@ -330,7 +330,7 @@ ceph osd crush rule create-replicated replicated_rule default host ssd
 ### 建 ecpool 並指定 crush rule
 * To create an erasure coded pool, execute:
 ceph osd pool create {pool-name} [{pg-num} [{pgp-num}]]  erasure [erasure-code-profile] [crush-rule-name] [expected_num_objects]
-* 下列指令裡 12 是 placement group 的個數. 且使用預設的 erasure code profile 和 crush rule: 可以承受一個 osd 損壞:
+* 下列指令裡 12 是 placement group 的個數. 且使用預設的 erasure code profile 和 crush rule:
 ```
 $ ceph osd pool create ecpool 12 12 erasure
 ```
