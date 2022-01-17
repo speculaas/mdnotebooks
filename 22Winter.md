@@ -172,6 +172,23 @@ CS 558: Software Foundations 3
 $ youtube-dl --version
 2021.04.01 
 ```
+* [PXL_20220114_004134810](https://www.facebook.com/photo.php?fbid=4879890255410477&set=p.4879890255410477&type=3&av=100001686510997&eav=Afav2UcoWlBekfLW9Nx4jDALvFaqY7hvHP9cYuPSUxXuvcOfx3QCcCc9n0dCeLYWFQk)
+  * ?q=kubernetes+golang+lines+of+code&
+  * stackoverflow.com/questions/41586501/
+    * First and foremost: don't be misled by the number of lines in the code, most of it are dependencies in the vendor folder that does not account for the core logic (utilities, client libraries, gRPC, etcd, etc.).
+    * Raw LoC Analysis with cloc
+    * While Docker has a lot of its features scattered across multiple libraries, Kubernetes tends to have everything under its core repository (which inflates the line count substantially but also explains the popularity of the project).
+  * [2018/12/11/1665419/0/en/As-Kubernetes-Nears-2-Million-Lines](globenewswire.com/news-release/2018/12/11/1665419/0/en/As-Kubernetes-Nears-2-Million-Lines-of-Code-Commit-Velocity-and-API-Point-to-Project-Maturity-Innovation-Moves-to-Increasing-Satellite-Projects.html)
+  * 
+* https://github.com/gin-gonic/gin
+* https://github.com/julienschmidt/httprouter
+* ?q=golang+empty+input+return+list&
+* [2021.05.24.m] router.Use(mid.EventPublish)
+* [2021.05.23.u] ?q=golang+dot+parenthesis&
+  * stackoverflow.com/questions/53577949/what-does-i-string-actually-mean-in-golang-syntax
+* [P_20211021_133537](https://www.facebook.com/photo.php?fbid=4596817450384427&set=p.4596817450384427&type=3&__tn__=R*F)
+  * http://nil.csail.mit.edu/6.824/2020/schedule.html
+    * http://nil.csail.mit.edu/6.824/2020/labs/lab-mr.html
 * []()
 
 
@@ -190,6 +207,23 @@ Apache/2.4.29 (Ubuntu) Server at www.cs.unm.edu Port 443
 $ youtube-dl --version
 2021.04.01 
 ```
+* arxiv.org/abs/2108.10315
+* youtube.com/watch?v=WQS7933ub9s
+* web.mit.edu/dimitrib/www/abstractdp_MIT.html
+* web.mit.edu/dimitrib/www/AbstractDP_ED3_TEXT_2021.pdf
+* web.mit.edu/dimitrib/www/Abstract_DP_2ND_EDITION_Complete.pdf
+* web.mit.edu/dimitrib/www/LessonsfromAlphazero.pdf
+* []()
+
+
+
+### react-static
+```
+$ youtube-dl --version
+2021.04.01 
+```
+* []()github.com/react-static/react-static
+  * fast, lightweight, and powerful progressive static site generator based on React and its ecosystem
 * []()
 
 
@@ -207,7 +241,7 @@ $ youtube-dl --version
 * [P_20210725_184448;15週](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4509110549155118&__tn__=R*F)
 * [15週;chihiro](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4524564224276417&__tn__=R*F)
 * [13週;P_20210721_160408](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4555669817832524&__tn__=R*F)
-* [11週;P_20211021_133537](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4596817667051072&__tn__=R*F)
+* [11週;P_20211021_133537](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4596817667051072&__tn__=R*F) [P_20211021_133537](https://www.facebook.com/photo.php?fbid=4596817450384427&set=p.4596817450384427&type=3&__tn__=R*F)
 * [3週;PXL_20211218_001450102](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4792850490781121&__tn__=R*F)
 * []()
 * []()
