@@ -163,6 +163,57 @@ CS 558: Software Foundations 3
 * [我的這一天2 年前](https://www.facebook.com/photo/?fbid=446808285385385&set=a.446808055385408&__cft__[0]=AZVIjQBFqhqRZ5kI4yvEWIItXgwpb04T8II_qDJy1Y6ulFQiEEicBPe2NWxZ6HzqmZ1zckv4Tpvoc6sOjIR0Hmcb29lxdfp4Zn8sTEdwyUpL5vWLhDQ18Y_zEn6gfvt-JewfAjvUF79lll9pTcQbyBvyvhpyN_31xkV4_oZE1Od6R5zn_4h1hB3o6073Uirdtrc&__tn__=%2CO%2CP-R)
 * [我的這一天2 年前](https://www.facebook.com/photo/?fbid=260249807374568&set=a.123296207736596&__cft__[0]=AZU5yO_v2Ux7VBESl-J5xorY_CL5-CXNYpERRUUGXPPj8yZp0ryJ2sq8_NtJy2QHwqlWL7Yd-TdmobGTdBc5I-yQjjeCQZona74himFHFEW33a15pTBIGQbZSLYQanIAeFDUNikbOqcbvoPSuCT9e-Hhpezr3AD1Lck8B-YiKSwpow&__tn__=%2CO%2CP-R)
 * https://www.facebook.com/memories/?source=notification&notif_id=1641935599119543&notif_t=onthisday&ref=notif
+* [PXL_20220116_234350205](https://www.facebook.com/photo.php?fbid=4892765840789585&set=p.4892765840789585&type=3&av=100001686510997&eav=Afbdk9cf2kEbtmNenKh5071vzdShY54aBycAYAILHZIBfwkprNaQ_Jz0rRP2TTV6muw)
+* [PXL_20220116_234219086](https://www.facebook.com/photo.php?fbid=4892712930794876&set=p.4892712930794876&type=3&av=100001686510997&eav=AfaIKt7hkmFlSvb01tv68AAGwjB_YfhtpEaim7R-DfSBUtvQKiOtGQyYS4hGT5a7Ypo)
+* [PXL_20220116_234325021](https://www.facebook.com/photo.php?fbid=4892679404131562&set=p.4892679404131562&type=3&av=100001686510997&eav=AfYu-NBx5mp4YQKwLtEDBisXmlk031BYhcI4xKdBi7CaV500zdY4z6V9GUdsxEMqFP4)
+* [Verdin](https://www.facebook.com/groups/585495791924149/?multi_permalinks=1345803069226747&notif_id=1642238023258707&notif_t=group_highlights&ref=notif)
+* [PXL_20220117_040507648](https://www.facebook.com/photo.php?fbid=4893696644029838&set=p.4893696644029838&type=3&av=100001686510997&eav=AfbW_zrwOHZ2YRG4Q4wGT_YgFDwMIOgpYbj68UUifeqz_-Ux1crncTmN6QtqHWej37c)
+* [PXL_20220118_044908811](https://www.facebook.com/photo.php?fbid=4895426333856869&set=p.4895426333856869&type=3&av=100001686510997&eav=AfbQd_kMcRhqTsxL1A0IHrXdwDKhRmAcmCI_WshydNDVKIVOJj-R5fmEz7g3wr6MclU)
+* [2014年1月17日](https://www.facebook.com/yieshengchen/posts/655376671195211?__cft__[0]=AZV7u_7p0_tkFil2l9ev_Xa_XOMUkSmZ02mYtt5dLPBnGeT6O87iXPUZ4o5EWr-SGuoA8E9YjjPSLdtjbc7ZA256fIWmlhs4H_Mqvh2HQlQvSsOF8l90EYllH1EeYr13wuQklM9rrvkXJ-7JOrpZo3dw&__tn__=%2CO%2CP-R)
+* [2013年1月17日](https://www.facebook.com/yieshengchen/posts/449986025067611?__cft__[0]=AZVtQdHzkYkk-DtmVF31hbxQN4su1UYlnXeKfvnOiWBTlUpsjFNRrXzZ5LD-6G2vZSbytPD5ylnz99WLZWiQ4EjE0X8J4t4M91tkiMZcZIje6EFdZPFxr5AsTo5UMx8IePkyMjp4VW88sHEq8ZYBiCojQpZ0rboSzAAzP1UjY5SzGQ&__tn__=%2CO%2CP-R)我們在 Facebook 為你回顧了這些年的動態，與你一起重溫近日的新體驗與美好的舊時光，希望你會喜歡並與朋友分享。
+* [2013年1月17日](https://www.facebook.com/yieshengchen/posts/449979158401631?__cft__[0]=AZUjRys7W652OCpHo69GIM-olWOpOIoyTaMKFsKl7EjLUsJBEht3Ms6TrmWpUp63MUDIA_kqxfgtUQtTWgsYiOI0EFVnyBclupll6xuKWOd0snzb7-Qx2C0W0S2uI_cPVkiu1CMA4es---s0gvnccX88&__tn__=%2CO%2CP-R) google 翻譯的結果; 突然想到齊天列大百科
+* [2013年1月17日](https://www.facebook.com/photo/?fbid=449966468402900&set=a.123296207736596&__cft__[0]=AZXCkwpw25r7I_EREih3975qMJms_-AWUfAVbbIe3pIZ3pB-EM1oP1H86jLX_kFzJvOTKyBKP0TapUiBP5zFZxTKFoCT1tq_UgPwqK5Me-wOdt4wrAJaKVQENLDhbvS_Jxp-DUgtBfBxuN7LZKJLE0q-qh8aQkVtqxYT6BJdbJIvYw&__tn__=%2CO%2CP-R)
+* [2013年1月17日](https://www.facebook.com/greenpasture.yang/posts/4819831486239?__cft__[0]=AZVOrkenmPM_nFOqJ6YEQIFamiz5hRwfDIs-U0_qTBSqsTKdKAusWwefLm2vR6mbCcKmGbqUi9z8HDYyqxo2bBDcapkRKreNcuzODtD4FWC02UhAlIAgNds3mRoqE9iCdNKdfS5VgNreajBzJoA_37k2&__tn__=%2CO%2CP-R) "離16歲進雄中已經過了10年了耶怎麼會這樣"
+* [2012年1月17日](https://www.facebook.com/yieshengchen/posts/266121786787370?__cft__[0]=AZUIHRzvrw_aJ4kIEccwXhYS1cO2Dc7SplOL8_OjyeZ3ttGotsp1jGzA1Pzw4tibaucbEyVqoXkBAuIpoSqhriJn9Trxprh1pNegzPCrhbsY5NDeVbd5R16VsGErqzQkVOFsve3jLEYkKVCER_ppvCfq&__tn__=%2CO%2CP-R)
+* [2012年1月17日](https://www.facebook.com/yieshengchen/posts/266116933454522?__cft__[0]=AZV6xTw05UD8AKszek-I8WpB5yS-tf2TGLxG1DcgQuolimhOOXZ4YUhPjHmR2yUxjQIyXI2IylXugxl2jRh2ODUwrYWtRw0qikaInxVwej8iCEwArLqTOn9u4Jg2k5vxh1tDCRr_yjFUmnnoz8uUCmxV&__tn__=%2CO%2CP-R) KO 居然可以來回一兩次
+* [2012年1月17日](https://www.facebook.com/yieshengchen/posts/265992703466945?__cft__[0]=AZVgbRrUwSHwsO3BxShXigfG1d5dQ5bvZ1Io446kJPFU6Pqiu9gcmjo52JbyOhV1azL2jvGsY6b6L5jwmO_f9p5pore1UH1KvXd5lxxheqGD-wHoShnjIHzt4QVNO5WRVPeGGzMUtLQDEtU9agmNF5H3&__tn__=%2CO%2CP-R) 差了六層還是被電
+* [2012年1月17日](https://www.facebook.com/yieshengchen/posts/265965553469660?__cft__[0]=AZXKNBZW2h6AEhen5n2-DNcOLwpL_ou8wNhfMZ_4lGX47rPDO0fPgJ20NVNGnpiw3qv87SJV-sRGvGsmIXL-V4J06TjW45pUFfSQ5vyjY7tSFx9FDd1R0XbRKjIP3o9ElBOD_JPOqVsutZ1-dM1xJV31&__tn__=%2CO%2CP-R)
+* [2012年1月17日](https://www.facebook.com/yieshengchen/posts/265942376805311?__cft__[0]=AZWNpKWcqwyMJwlwWDmk3SA7NgcDZ74k_WvAAmPzBcGfhRZlV2GXULrV2RwLdr8-AImkQd0wyMmfqHaPDyz6OE2s2lmucOrTbH_j9u_J7yESMK4I6UK-69ONDim_dJ5bgFNECwiAKi7EVuV72svOfpgf&__tn__=%2CO%2CP-R)
+* [2013年1月16日](https://www.facebook.com/yieshengchen/posts/449208568478690?__cft__[0]=AZWhcgY6sIeGRhKlPrSSL7cd4rSkqwBZ_9E30FQplkbSufcuGBLfU9PGZKXsBML8o-YMiTPanRXIDjFZ3H-8VnK5gq3p7tRFfodI9Rkjxo2v6mikt-olOzN9aKHQyoESBJ1ZJxsVoOxTM9EXUIFyUZuTvQ0NuhxzjHkPOLZHyqHifg&__tn__=%2CO%2CP-R) 奇美咖啡館的鰻魚飯居然賣的比 16區貴
+* [2012年1月15日](https://www.facebook.com/photo/?fbid=264862073580008&set=a.264847243581491&__cft__[0]=AZX0yWRslAms0o5iL85BSBPiePdBzj52Z2aKxJPWtJUWZhzqiLY630xRivSs31oRiFl0pJIngWptae7b4Neyr6uK5myDJv9vYmEnAktz5M6_Wk_bqoT7IgIdTh9YTDg6FBIf2-s9ilf8evkjJC717W6xwXXUlMnzojWfJMt9XKpS8Q&__tn__=%2CO%2CP-R) Solar_walk_gnv__2012_0114SA
+* []() https://www.facebook.com/memories/?source=notification&notif_id=1642450399093243&notif_t=onthisday&ref=notif
+* [PXL_20220116_034233865](https://www.facebook.com/photo.php?fbid=4892561860809983&set=p.4892561860809983&type=3&av=100001686510997&eav=AfbzWnqqkLfCbXAxy_QQLHKW_MEu4jePN1qtrip__lPTJ5WUIAZ60qQP9G5rs9-jtvw) react-static
+* [PXL_20220116_043754751](https://www.facebook.com/photo.php?fbid=4886278804771622&set=p.4886278804771622&type=3&av=100001686510997&eav=Afa8WUPlkwjAuG5ZwlGCRW64P7ZR0AUBevk1WED0URdOttf0Fzefw6OI9lLQhPlIdUw) So let's say that this is not the optimal.
+* [PXL_20220115_001427388](https://www.facebook.com/photo.php?fbid=4882210071845162&set=p.4882210071845162&type=3&av=100001686510997&eav=AfZXmSWxOvDpQ74rAvXcesCKckR_DdxZYgch9b7HVFOGRVZ634Kl3MIJraqLBYzbZGM) hackmd
+* [2014年1月11日](https://www.facebook.com/yieshengchen/posts/652635564802655?__cft__[0]=AZUwW1nMBSuxDorxbcBF26hXv3NxOd4GqU5ZkHCV_Rbl5gQ_RlWMvGzypn4d4KVu4pWumLY46IKrkn_nCZBl4gfWh33U0jthahZR6FeaBxbJfQK4JBfKqdB4kZqZfIEWDSc&__tn__=%2CO%2CP-R)
+* [2014年1月15日](https://www.facebook.com/yieshengchen/posts/654574341275444?__cft__[0]=AZUW0bhzVE2k_qJFtG-m646s4RuzXk4VC5yT_2B9ECpbC03_AA8tr2OWDXYirDA4D5YCcHBaJc8E6Pv9dW81f5Fghvj6bGIaevLWiSEsV1fiyuA96VJHB_0oWjXFPwxEZXXNYZRC0yH6cksSMnA6O5_R&__tn__=%2CO%2CP-R) Many challenged the Enlightenment’s emphasis 
+* [2014年1月15日](https://www.facebook.com/yieshengchen/posts/654569484609263?__cft__[0]=AZWaF6Viw0P8driI2H7BNCg9TwYjf_sf8AhbwzuWOBUPAn_hr4o-kIWZ95zBjdDYw5vZt_0iDY1URXwBMzSXKQYG9Q55ZIqfVsKGhAximWxGsSQZ4tC70mciSAaMqmVcVF2Wo9lpFflcb6O9CeXqMOfs&__tn__=%2CO%2CP-R) 剛到 uf 的時候一杯黑咖啡 1.33 呀 10/4/2011  In Store Purchase  (1.33) USD
+* [2014年1月15日](https://www.facebook.com/yieshengchen/posts/654567454609466?__cft__[0]=AZXJiGbYLT2uXUDuOmFWjLbhOvJXHs541soNCNx7EUVKfEBuFLoSfYVsZ96zmfI_bCCNEwT-glc9H3Wsvu0tEi6ZFRegdfskGTLHkud7zq7waAXgcfAnU2N25uH5_EecdqrYUbC7FnhIbcm83YDbg4Ui&__tn__=%2CO%2CP-R)
+* [2014年1月15日](https://www.facebook.com/photo/?fbid=654546761278202&set=a.123296207736596&__cft__[0]=AZU6NAMAjVALiIOUwTR4A1eUDaz4zF9qkO9lxlLJ7Tb6n6mQzpylVsWxllJpgbdvKC7pz_zJay4LZ8IEK8FMfdXoFVZuCKhKIOwFAjOrij2gTuL1xO606Q3bvA8U7xB--tLpwmDwf872XlzIl7bO9KcYY0XssqsKdC3zSAUxAMtkrA&__tn__=%2CO%2CP-R) 排在前面的是一個蘇菲世界年紀的足球裝女生和她媽媽
+* [2013年1月15日](https://www.facebook.com/yieshengchen/posts/448772221855658?__cft__[0]=AZUiaWMUmjo6PzdIL3S4D84IgewiaK8pxCDxPbsiXow1yvbY_mVk3uAVonLEMav9DzZuA6gc8xyIoTeHQSXpR4ycMacvQ1SJ73aN4lEP3TzHvavJ9ca889IDVw3Ox0osfkx7cdapOHDIYJZiNxCAb_jN&__tn__=%2CO%2CP-R) 因為感冒 .. 所以回 gnv 前沒辦法去鼎王吃火鍋了
+* [2013年1月15日](https://www.facebook.com/yieshengchen/posts/448769001855980?__cft__[0]=AZUcikT0lSFyFIXF5QZclQcA-dHF7qqfpdmGwkjT3IQFNx7LUbi6-VIHmED5hyWoJ2idjR67z1vwVftf6xti7zs-R0rMDrIiDsZdCMDgI8Rc0FhUEHn2-wRjeC9Bzyjdgza-1kZDf7a3jTc5_2K67RdK&__tn__=%2CO%2CP-R) "角落一隅的朋友", 也說到把人困住的是美好的回憶
+* [2012年1月15日](https://www.facebook.com/yieshengchen/posts/265130090219873?__cft__[0]=AZXnNnDI-CjeICcKxOoXIIGKNbQ4DjX4_-bnv4HejkWsH7j60SsDfw4Ta-se0f5mzOYI2B7VP8fU-JvbrMbWlhE06ZV3HcvJ_ghthYU8Ya5c-q-E-fUY1vx_-EO14rZ7V74dOiJDxk7Pf9KpBsy06ceO&__tn__=%2CO%2CP-R) 剛剛一起看了 "那些年，我們一起追的女孩"
+* [2012年1月15日](https://www.facebook.com/yieshengchen/posts/265124856887063?__cft__[0]=AZVb8VEfI0OVR4_V2BypZto-e7hHdngHldP059WSosN9EF8i4TJ2sOkQga6Uykw58BpESBXNgN2VSYmTsPosNT0gxQHjcX2Vb79GN2kaqURYH0Airc4xjaQ68MDUek5iXuK5vplV000e2Kd_eUntg3FK&__tn__=%2CO%2CP-R)
+* [2012年1月15日](https://www.facebook.com/photo/?fbid=264854833580732&set=a.264847243581491&__cft__[0]=AZUX1x9He3csSwjnZuOtyWn4GjyJTv3ubeE6jfELHWYh_4vtfhUa2ImbIlz1bZIa6HUl8il0G_ZoOIEwPWTh8NldrItNBoAp_TyvRdF4oprb2Xai3xpxwdeohXrK4qiO2loysF-JF68x_WcajAfCSVK-Ct0NRFJ32FH8n-iuVzr6_g&__tn__=%2CO%2CP-R)
+* [2011年1月15日](https://www.facebook.com/yieshengchen/posts/138231869571642?__cft__[0]=AZXhSpPSDy_kq_DB9Et7ams7jTE_8iGdjTLfexaDf-PaATe-4ZLj-2GI12gTpaEh-FAsruRmvE5ecwjN_1WUNM3l4vO4aqQ7QNvDgEFKl4BiN6qSwJQroS1m4lIXyPCLscwn7uG-9DyO1050K8mm9XxZ&__tn__=%2CO%2CP-R) 剛剛看到一尾、娘砲和？（沒看到臉）從16區前面走過去
+* [Pusheen's Guide to Purr-suasion](https://www.facebook.com/watch/?v=458935099153951&aggr_v_ids[0]=458935099153951&notif_id=1642230449451578&notif_t=watch_follower_video&ref=notif)
+* [PXL_20220102_003532797](https://www.facebook.com/photo.php?fbid=4840606249338878&set=p.4840606249338878&type=3)
+前幾天剛好逛到 Stanford 的 engineering hero
+原來張忠謀的英文也有腔調呀
+看 Stanford 校長幫他解釋學生問的問題呀
+Turing 得主 Hennessey 呀
+原來張忠謀是因為別人明確跟他說他不可能成為 TI CEO 才觸發他後來回台灣當工研院院長呀
+就差那麼一點嗎
+,
+48:46
+other is Shakespeare's plays and and I'm particularly interested in the in the Shakespeare's tragedies and I mean there's a lot of meaning I think a lot of life lives lessons in Shakespeare's play
+,
+62:46
+Shakespeare's tragedies but for bad time reading cards romeo giulia all perhaps the Merchant of Venice yeah
+,
+, bed
+, $ cat ~/?/unm/22S/winter/Stanford-Engineering-Hero.morris-chang.wEh3ZgbvBrE.srt.txt | grep shake -i -B 1 -A 10
+,
 * []()
 
 
@@ -199,6 +250,16 @@ $ youtube-dl --version
 [DIR]	android_tools_leeco_msm8996/	2022-01-14 11:36	-	 
 Apache/2.4.29 (Ubuntu) Server at www.cs.unm.edu Port 443
 ```
+* Paul Deitel, Harvey Deitel - C How to Program. With an Introduction to C++-Pearson International (2016)
+  * 7.12 Pointers to Functions
+    * A pointer to a function contains the address of the function in memory. In Chapter 6, we saw that an array name is really the address in memory of the first element of the array. Similarly, a function name is really the starting address in memory of the code that performs the function’s task. Pointers to functions can be passed to functions, returned from functions, stored in arrays and assigned to other function pointers. 
+  * 20.7 (Optional) Polymorphism, Virtual Functions and Dynamic Binding “Under the Hood”
+    * C++ makes polymorphism easy to program. It’s certainly possible to program for polymorphism in non-object-oriented languages such as C, but doing so requires complex and potentially dangerous pointer manipulations. This section discusses how C++ can implement polymorphism, virtual functions and dynamic binding internally. This will give you a solid understanding of how these capabilities really work. More importantly, it will help you appreciate the overhead of polymorphism—in terms of additional memory consumption and processor time.
+
+* https://www.cprogramming.com/tutorial/function-pointers.html
+  * Function Pointer Syntax
+  * Using Polymorphism and Virtual Functions Instead of Function Pointers
+* https://www.geeksforgeeks.org/function-pointer-in-c/amp/
 * []()
 
 
@@ -226,6 +287,24 @@ $ youtube-dl --version
   * fast, lightweight, and powerful progressive static site generator based on React and its ecosystem
 * []()
 
+### Project Animal Crossing (?)
+```
+$ youtube-dl --version
+2021.04.01 
+```
+* [?q=動物森林&] https://zh.wikipedia.org/wiki/%E5%8B%95%E7%89%A9%E6%A3%AE%E5%8F%8B%E6%9C%83_(%E9%81%8A%E6%88%B2)
+* [?q=動物森友會+女工程師&] Lucy Chang／矽谷資深女工程師. 2020/07/29 ... 從《動物森友會》和《FF7 Remake》，看遊戲產業的逆勢爆發.
+* [?q=動物森友會+女設計師&] 
+* [?q=動物森友會+任天堂設計師&] https://ccc.technews.tw/2020/04/18/how-nintendo-make-animal-crossing/
+  * 後來，系列製作人江口勝也基於這個企劃雛形，萌生做「讓大家一起玩的遊戲」的想法：「在一個廣闊的場景，構建 RPG 風格的世界，然後讓多名玩家進入，每個玩家遊玩的結果，會影響到其他玩家。」
+  * 2006 年稍晚，京極彩第一次加入《動森》製作組，負責 Wii 新作《動物森友會 城市大家庭》的台詞設計。
+  * 為 3DS 製作《動森》新作《走出戶外 動物森友會》的時候，京極彩升任聯合監督，與更側重系統程式的毛呂功一起，負責統籌新作開發。
+  * 京極彩就是 Nintendo EAD 的第一位女性設計師，Wii 時代加入《動森》系列後她發現，當團隊成員男女比例更平衡時，有創意的點子更容易迸發。所以女性視角的設計理念，對這個系列的變革也有關鍵推動作用。
+* $ cat lecture-16-complexity-p-np-np-completeness-reductions.eHZifpgyH_4.srt | grep -i -e "dimen" -B 2
+* $ cat ../6006-11F/lecture-23-computational-complexity.moPtwq_cVH8.srt | grep -i -e "shortest" -B 1
+  * 00:50:53,500
+But in 3D, shortest paths is NP-complete.
+* []()
 
 ## 21F review
 ```
