@@ -214,6 +214,70 @@ Shakespeare's tragedies but for bad time reading cards romeo giulia all perhaps 
 , bed
 , $ cat ~/?/unm/22S/winter/Stanford-Engineering-Hero.morris-chang.wEh3ZgbvBrE.srt.txt | grep shake -i -B 1 -A 10
 ,
+* [PXL_20220116_235842907](https://www.facebook.com/photo.php?fbid=4893792340686935&set=p.4893792340686935&type=3&av=100001686510997&eav=AfaFl0ntlY4V3PkgcyjIiBGi-TjqHUDZh4b-D1mgsCfcDq0yzAh-WjrqYqK5hAd3ex8)
+* [P_20200101_004203_vHDR_Auto](https://www.facebook.com/photo.php?fbid=4884810958251740&set=p.4884810958251740&type=3&av=100001686510997&eav=AfaNkaoWu6SDAPik761YugZqo_ZPcOe7rsep1Mtz8kzmfqGxrCXX4ewuOR55fk-nlnU) nytimes.com/2022/01/15/health/mrna-vaccine.html
+* [我們在 Facebook 為你回顧了這些年的動態，與你一起重溫近日的新體驗與美好的舊時光，希望你會喜歡並與朋友分享。](https://www.facebook.com/memories/?source=notification&notif_id=1642632533039739&notif_t=onthisday&ref=notif)
+* [2014年1月19日](https://www.facebook.com/yieshengchen/posts/656250881107790?__cft__[0]=AZV5EFuHNTSqp7IQuH3a4d_wNd9iO_asCTZN0ADGWeIiWJuHEaPcU3bUxCJlDuUeCttCxBFwls2U_YjWvrjBFeZuCZl_fsMDAK-A-Tmv_EXUaT0T3XbA9Fs5AFzFPfuJAZ4Nnmt9pliPYTOhNqGUEMTB&__tn__=%2CO%2CP-R)
+* [2014年1月19日](https://www.facebook.com/photo/?fbid=655984427801102&set=a.123296207736596&__cft__[0]=AZU_8B5nXYNwJDnnoMZNru5VnvhP7VDBeVb2gt1wbdYuq0TTvNIbdt8PtaXM6d-s09DEtXTNNMbVPEQleRbJqgLeFjBE6Yu2mse3d3YJXM0wLt_Drmp0-s_Zi8tqPcbR9OjzEO8NLS2bsgh9FOrBVQdQ1uAJkTpN6edLqV5D1WV4hw&__tn__=%2CO%2CP-R) ?v=_LC-dXfLKhU ; Soarin' Theme Music
+* [2013年1月19日](https://www.facebook.com/yieshengchen/posts/450922091640671?__cft__[0]=AZXjMCpoZijcsfK1BnepukzVoARgjGdHvhq8hvBZX4G4cjYimkwbC54F75TIe7DIRp5XQ6IfTCYukpCeFJFJimagapjG7A4Wdqt2xFwDPgA2XH9u6g4qwZhrZUlsQ6XS34hw0p9vAVFDyrTpNCXhPgdg&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/photo/?fbid=450921291640751&set=a.123296207736596&__cft__[0]=AZU07X_YefRVsgIaG1PMr2v7r9uNnCAb_vg2xUrh0sZIBOTt7FDNe7WT2UY_e0mKxAJeKSIGiQEwXP5nniSmUKUDI-jyMuOsPF5NbJG-P-OiEpMxwhzuzm_-bihxNoUKmustiRmNfVe2cML1AzVmmTLMeGV1wQ9tXDbtAi0lIA58Tg&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/yieshengchen/posts/450914781641402?__cft__[0]=AZVrymL1CFHXUIMGnWhBVN__MFYdVuX4Qwnp3mD2sQFUa3xzpKJERbIKOxlwFHtUkbYRxDVJOSGi0kllCFygjCPnHyhd9kn_pfOZcWGJd36LQEfzFWQqY8GGku6HcJI3-SivWOaT-MOhiZETueN64B3A&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/photo/?fbid=450914421641438&set=a.123296207736596&__cft__[0]=AZUjDguMHhTsq7TxSADPxLDHeIR-Tz9r_Zqp6__63prVZm01jQIEoNAfnhuMIHRV75dUzw3pUcxLI10Rnrm5UgGl13uWaSeWNUWFrOg2CnKXJHLfFme3L2blGwxb8Ix5ZLlBwWAxJSoiZ6P_Asb8hs852JB0aTPyTAJdVNakxSBTzQ&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/yieshengchen/posts/450892168310330?__cft__[0]=AZWNGtx1LJajIFojHw7xa7DjKJJ_HEzytoWSOyfXvbxa9Om3BSXkP0oVVAHyIfzCfgPVwuSprdef0CHXhEtqll6R1_9gUqtQLmMHRZydFMKVDIUH6XzDkI2PEPblESY8xXqJYJGPdHSk8c1vnd1Vg2em&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/photo/?fbid=450889394977274&set=a.123296207736596&__cft__[0]=AZXUHcRXDkyhUSRCjhCZlscJ8VG7oJnEDDxautVhP8nR_VHuD0lRfufX3OoBNXDF16mzSpImB1ha5MfBk10h7MXa4WGVMUP5Z5QjQm5XHP4WpYNc8ritOkAFPKvaOlj6lBzqSuHk4a4fsGdwlZzo5dTKjuu2YlKKwqgMm24pd0w91g&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/photo/?fbid=450888364977377&set=a.123296207736596&__cft__[0]=AZW93NLggbXgUKr4euEwJWBMpk0yZqS-ZmarNT3on7HbzXpXIjssuqGIiBqklI3lizhEeNuRLFesty7ODcBpkEGM9-d2PFVo8HURfWsEUKxskD45fRj1pfotO7jCuQsVhcKYafmr2B8ZNukuho6MWrLNlE7oEbtNkEqKbH-hTJ4x9g&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/yieshengchen/posts/450700381662842?__cft__[0]=AZWyBPxF_wpAdXROj_SEIqKV_33TN41_bWxgGKQQDMqPpUDQC0lSfpIx6_5L0tJwQMc2mXsOc7KRZ05qHE8t8Yep46uIulMAEjldOsjHBz1-DM8r2g4B60Uhn5raV-lCcep3Q47o0paGME2G6a3z7yfr&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/photo/?fbid=450698634996350&set=a.123296207736596&__cft__[0]=AZWT1cDxjyxGWZIWOS1gikMVWErS5HC-gZYh-eFvnfj_RC1Hb0bsEH8tpOx1ngnWPnMPEPXFvJh1iDVgvvypn4lNyi1RcYFYxrsYM6o8sxzX8xO6HfYD7lCClH1K9d161_YsTEoxQTqpZTQdbWQbz_EpwgezWOfZg-k4PZ9_gPZQdQ&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/photo/?fbid=450695941663286&set=a.123296207736596&__cft__[0]=AZXqVSLrx34CI8rY3EwN7HObsMp87cvNVglPkDCdaYk3BU3N9DcfJkJGwg_WXbS2-44yZ7vuA_nuD9yfUcdYITvV8NJ7kWvrVSI2yagPC61MKVhvCVcP3iMfGuTZZ6-HjzNVV2D8aJFGemP14jf7h5ThYPNn00evi5qJcskImt9U8w&__tn__=%2CO%2CP-R) stitch
+* [2013年1月19日](https://www.facebook.com/yieshengchen/posts/450690071663873?__cft__[0]=AZVq5uoPNXvJZS9qWNEhjE6yQJISIhnM6zWE8A81zmFHR2BIs3-syR95HnaxmuBWekkIUPZ7WCvd0pX0r9nVgfLLVchCwGFzy1DaLqQlFHUVqjJh8QjyywFjVGIUHQ7QXNe6o0C6PCCvZ0tdmNALdaSE&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/yieshengchen/posts/450689758330571?__cft__[0]=AZWFreY9Y1CbkBTDmFW3yR-aaRUShgRSqOxFTsC7u8vwFQkCPVenSyGDbZJYl2PvRcwQXavwI3wde6zMHSFP-8atu2eGCcVOoT6s_1zftJICSIgIGp2qyHck_Agp-83Z1ilQuCJvlrXxY9uhJ2SxOKIELnDOpjUHqysea55I8RJ4Ow&__tn__=%2CO%2CP-R) 麵包皮好像復活了一樣?
+* [2013年1月19日](https://www.facebook.com/yieshengchen/posts/450689404997273?__cft__[0]=AZVo_IiAdXlPVqEB6mUgJuOcwStVp3mebt9pz2cwThRE4aiKI7miuERfyCLjo3M5YRA-o-7oGvt_oLEn8OD4TZJI8pg_Bhts7k3fcV5iLvN8DKWs1Ml0kuj3ZlzSgewyuXVizmReck8ZB07UZWQbr_53Vv5WYMtB9wRgdzivVoBDig&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/yieshengchen/posts/450688831663997?__cft__[0]=AZVnDIqKGe3tS-ET9vfa7PB8v1bleAASR4sRW8Nde92FJJDZ4fd4KjYUiCwUbPggyqesdbLKt8IabTj602z28I0Z2VXtE1J0duVqpYnhgYaEy3IxP-_Rf6iNuc2nTRJOWtWMahFNoV5zcqOnkvX9xO54nj9XyCTNrJqUc0G9XQWIhQ&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/yieshengchen/posts/450687838330763?__cft__[0]=AZW8ib_mLmZEcYcyCFb3LLW2leJ3P-zQcKr1e-U9EP90Nwq9lI_qi-E33jf3cvCkA7pxHqNWIHGG8hACEJ_YiimuJkievsCeFs0TfonNlUwTYyQRe56HiqKHwqrkTiMFkYA_Mwd4LXUX6R6rDX-Jzst7_Q3B_T-i7OnNFiV51KTy-w&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/photo/?fbid=450687324997481&set=a.123296207736596&__cft__[0]=AZV2HByaNRP4lfYihVmIjA0uSRsjillOwDKVJuzm8zMEBHzrSHtOO-vVHehTQDLdDCZ71cjqsbF5wC9hjQ9Cl3QAiWc1q1VWjQdKxwy7q0yxHub--9vx6rSx6HQXgOA0PlaKZrVj5u54ySOBt05dH420R97niANa3fF1NSBNpARycQ&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/photo/?fbid=450687034997510&set=a.123296207736596&__cft__[0]=AZWQ9AL9DVEbg60m5Agc8RHpD6EHQrLAykdTQC9_oeNO9ngN8iTW4yXB6ovYZFJTar_uLPtJSR_eBYXPUO6TVLwPIB1ThuXSOhnr8pL2pM2FrPpd_0hqtYAp5FduDO_itWsrue-JD5mlG2qqYpKp0eVRtG94CcTdgl1GIZ9pA1lbbQ&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/photo/?fbid=450686911664189&set=a.123296207736596&__cft__[0]=AZXywf08IJwqNxcVPLrOStT1thgR10n2GSfz_XOqLZo6qTFX4PQ3g9f0JPemEud_dCtrZjXushVheFxHus9-P2BzBz5veAHt6pWAiHjVr3PfOnIAOk7NlBPXCVBvbgWfWzC7_k4KJoWDCx8EEx-y66jt1_NHe_KuIH3iXWYL5SDMPQ&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/photo/?fbid=450686538330893&set=a.123296207736596&__cft__[0]=AZU1owceuVRWXe-8OUDDbbA5NYqnjL31uVaSL0jKz7jWyVJHHt2NRZIPQrZEOWVqd4UnhjCK9QLji6NCm5wn8IBdXuwhjjwdqd47mrbiCYRAZ358wD_A9WYhbyQmIkPzG5uT68Ud-V1Q2ALwbRLu6UQX2x_MS3kE771bwBNqs5wTDw&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/yieshengchen/posts/450686014997612?__cft__[0]=AZWmv09W26mUNCxJEzMJtvJew5p3_EeU6niO1JuUyW-ZIlrMAcPG3FVcQDDbWu-1cRJIO-XS209cSZCGTfBOtmoRfPcGwn1c1bIXTc2leWcKokaFjbva5QlZbfukbBH74HKkcq0GvqISQAks6BSRls-Nn0JBRyCPSyg50zJrK7kNog&__tn__=%2CO%2CP-R)
+* [2013年1月19日](https://www.facebook.com/photo/?fbid=450684898331057&set=a.449210775145136&__cft__[0]=AZVJe52LvZjUVFKoh7XBEDd96IbuBMD2OwlaV1-OrJTvItNBAKMElAqUFVX5MveeNTfpjEKqWIjZAb-tIIKNjI5jucKXYdP6kzvfuhTB6y10ycstE4QCJdYEmeXGRLfd_zQwIhIy-0zAhRZKDsV3fEyV-sY4pgEP0ViI281kem8ILA&__tn__=%2CO%2CP-R)
+* [2012年1月19日](https://www.facebook.com/photo/?fbid=267423229990559&set=a.123296207736596&__cft__[0]=AZXVfUMeUy5ampDOFlz6-M7gV2JrGq_Y_u-wCMegpYNfsZoGnKjgtIWYEGuvXJj4cfx7JdJRd5ipLtIpgJSceiwe7FznclHSOTo0F3nYtrrJQdbjnK8Am3z7FpZLVuf5U8khFZiLl5pAjX40Os2xtOpLRUPi1RchoFz3TL9ekujfRA&__tn__=%2CO%2CP-R)
+* [2012年1月19日](https://www.facebook.com/yieshengchen/posts/267398799993002?__cft__[0]=AZUa9nGl8R4d3I0ZwBsQUAhxLgeFLhILJ3vPFFIFz8yRldEjRfS1sMmPmZC1iBSUl8mAQionLAeJAqxg1kd0HQfqSfulQGWyYVdjLZC7HVboly4gE78iihtX4d11-7Dj1_wjXK9ZGh36J8x_wmnonFYZ&__tn__=%2CO%2CP-R) "游泳既不安全也不適切", 那網球的話呢?
+* [2012年1月19日](https://www.facebook.com/yieshengchen/posts/267393536660195?__cft__[0]=AZVtM5sAQWbj88AO3O43vOm7lYfB67_U3CnanUalmQa3fSPbTYi88OBB1T2d9FaYc1K77yQBcFEEA-SUs45H0_iZ8OqxsYUJRpsxYWDp4rWuYN0FN_AaCRaonydA7rBjcCtz8dl0ipZEzNOk8SJjo5n1&__tn__=%2CO%2CP-R) 如果瞬間的累積是時間
+* [2012年1月19日](https://www.facebook.com/yieshengchen/posts/267316786667870?__cft__[0]=AZVgjIZ8pT21Bbx4y5HYRzqMTDKeKD_UUvKSfuHI7mNG8hFuxIP3_0vB-ClToHuNwNWEO_Ip1G3r82aHVx5H5w-IZPRhh111GFOgNnQRAPEsgrTJiNM2btNPgVWXSMrA1Le-Y6-GqT7jgxUov-On8eEH&__tn__=%2CO%2CP-R) impressions and ideas
+* [2012年1月19日](https://www.facebook.com/yieshengchen/posts/267276403338575?__cft__[0]=AZVsNale-X1ZvHKB-C7NJp-pfviDXs76qFG2kLpQudPgM2iyB__1Ut0UGs0zMrS2mSbXnfH2kuybZhvTi5buDoTLUnMwjpklo9CWoObmLA6Nhawa4_tOf7RpMeE4yPRz70FjS5AT-2n1QoDV9r13qwq0&__tn__=%2CO%2CP-R)
+* [2012年1月19日](https://www.facebook.com/yieshengchen/posts/267271173339098?__cft__[0]=AZUsNcT8VxZImmC5iIMufwvFR03oKDah6xTtpWKdwiTcSHLWL34Pm8DRT1OCEQOvsxeBVvcz1jfDTpYaQBwn1jcnThHmKbM9_zs_wdOvWXmrtnhpf2EN0__Z4zV_YtamwUB46LH2S1gt4EFvm1EevX_z&__tn__=%2CO%2CP-R)
+* [2014年1月20日](https://www.facebook.com/yieshengchen/posts/657008327698712?__cft__[0]=AZWBpT7HqZ9-Ap1Nwelm4SqkfSXfkN05ePKlKez6neuqU6iy_Mj02fH7q8tJA2To6TuKZkx6B-XqkKwgt15HOwpuhrWoCCb_Zy7xwAbJduMID1WqaA7ovkOPPp-2WNeGMr3_i_LJRGOnESLwrXFr41qH&__tn__=%2CO%2CP-R)
+* [2014年1月20日](https://www.facebook.com/yieshengchen/posts/656902964375915?__cft__[0]=AZX8bA6clifzkeFVf02bCapPaL7i96NKejVM-OyVrJ_X_yKb7lz3-Nop-rZsbVwF_VBixqGU4G_v8VazqsDXGTyGr4_8rAipn4-Li2S94NtHK_lSftx9grO1wQa7CJ9RpznI8SS4k6At50dgrRcybKar&__tn__=%2CO%2CP-R) 該不會是被稀釋的垃圾山的味道吧
+* [2014年1月20日](https://www.facebook.com/yieshengchen/posts/656852234380988?__cft__[0]=AZUbVZx9C_M-enbq7bK1ZENIh7U1km5WerjzyCW-GUP-Ff0AU7pcvsp9eE7CP9qEh3WYwNjp8Z_77q6qOxysLISKJnsMgBTi7lMjQ1eQIFXRT_FElmmKv64g31LYpZaUeN7MqCCHNn-Tpwy9IWyPGKbw&__tn__=%2CO%2CP-R) new CameraPosition.Builder()
+* [2014年1月20日](https://www.facebook.com/yieshengchen/posts/656847121048166?__cft__[0]=AZVbeS6Nd_N2ZDkKVOEpdS31hqUbRfV3zfMyC63wiO3D5Gb2wVvCxAXvXX8Qj6-tB-XZShonxrZ6CqJoQzAzvLib_lQY2MNC-6aRL_CoeP7fo6JvOXLLFFBczOZpT8m9n8c2AhZeSgdZrjbHKvWktLUo0hU4qHOwivRKimt689KsJw&__tn__=%2CO%2CP-R) Eyewitness Travel Guides
+* [2014年1月20日](https://www.facebook.com/yieshengchen/posts/656671711065707?__cft__[0]=AZVPfGQxhHJf7SUYLxmHq3_uWRPFv0-PjiocnrRr3zjfs8CQR0weiisH9abHC3DXZMd5CU291hyKYrzjob-lae0FhKkGbOtOkn4Gg9PHBg4QJznt5iBiZwl16GjJMvBXRQ5J-mH8uMAcGZJsHsddGH4EnLL9P0OxVsy-rI84SmMVIhzUOpqMgo8RNYJpaxvZjG4lGYjqzT8YN2kC8cQGODKW&__tn__=%2CO%2CP-R)昨天吃晚餐的時候剛好有看到最後幾分鐘;只是不太確定, 那一球如果 49er 有接到的話可以得幾分;突然想到如果球員像 animorphs 一樣
+* [2014年1月20日](https://www.facebook.com/yieshengchen/posts/656500274416184?__cft__[0]=AZVx53UN2UEUZl-fK-Ic1GeLitxiCMO-39rsbHFkT56HOOpruumUHPFvOdiMJYBXs7Q47JneLmioKVdanIhE3XVIXMWK-zLvFHpXs0Ee-U_sl1j6bigPqiAJhF49OSmYSYR9F5nQLNZiSivjsdX_SUYWpRACGfect-cWi0hQwx6K0g&__tn__=%2CO%2CP-R) NUTS FAMILY
+* [2014年1月20日](https://www.facebook.com/yieshengchen/posts/656498921082986?__cft__[0]=AZX14HAE9i0ulZhnqYKGowc8u_GYDGBrlfmgBOX4_J6oBnlm3RMCX8x7Mjsx2GmRhsWkPgKvqKXjwFfj5rmty62WrIT0G3JTx2CGDFKi_CTfvBI6onSlw_mfpqHD2XR5MIL4PWrV39Nv9X7Bywt5c9WKNXAsWBg5AL-KTOFEgNLDOg&__tn__=%2CO%2CP-R) NUTS FAMILY
+* [2014年1月20日](https://www.facebook.com/yieshengchen/posts/656481804418031?__cft__[0]=AZXYcVOrC_U2jd4stXfH638BMI4MCEM3gb3V4YVQXYf1qvNGaRWSnO8pRU2NDsz5UhnZb1xDgrqCpVuGgAGXLFQ2jWOJl29yb19T1muk4doCnMsxEO7S4NQdPEO9Js5OMblqk7NLP4-y0aw4payA2QJ0EiIJFbbe-SJd9yKCtAgYiw&__tn__=%2CO%2CP-R) 最近因為 bagel 的關係常常看紐約的地圖
+* [2013年1月20日](https://www.facebook.com/yieshengchen/posts/451408284925385?__cft__[0]=AZWB7btlyenWm3Ejtms-WTbz1ZqxZXvTfbRSzR1telenBkGQ1_g4Dq3_jlHw9SCodQe3XeI-IVyPSYp9QCzeWU44stvz3iIB1vNTlh79SKTYhbDRmFm5VPcRF_tGEyfVvSiE4rs6qEnyS41KA6j7bQDP&__tn__=%2CO%2CP-R) 剛剛睡醒的時候居然晚上 11 點了
+* [2013年1月20日](https://www.facebook.com/yieshengchen/posts/409373819146723?__cft__[0]=AZUYqjy8fb5mgmk5gEibRYben2I44u_Lx0ZzwBOGviKymDQjw1veKmoTCd3avzLShYZT9hSR65UJj96JYo4Ouig_0NFHEA2LphypxGENN3CUPe2FyWyaldRMjNf4XwX9Z_cg65eFW25PXzKTCH6K2Y_812zb7fSL73B1TtituxhvgrdbWDJhFRA_rTc7rD_ly-3jy9BIPeEH4OYm8UsMIKvY&__tn__=%2CO%2CP-R)
+* [2013年1月20日](https://www.facebook.com/yieshengchen/posts/450945374971676?__cft__[0]=AZVf8HqJD-HQK5UyKzO6fOrBAgnNEStm6iuG-QaRu7eZLiXijFQhABnZNqWaBXyrXwDeNNCSnvT3RfEfqtuD1oAjm38rk4b0eFHSHoXxf5DgUZRz2fRrjbPfjzmfShDJSSSr-5v3wcpNka6V1zFDJ1s1&__tn__=%2CO%2CP-R)
+* [2013年1月20日](https://www.facebook.com/yieshengchen/posts/450945048305042?__cft__[0]=AZXZE47RH3oSct-mFXlN10s1tdbm26MnaoGJlhicgE6LUDUYB7_uot_NphOHxbpBgO3aCC7Ad-eX1zrVelDGaztuXmwGSgY0dh1V-UVk7y4hCIGCoFQhHamg6OOlpsrbmk5ijXqCx7xKnVav9ymrZcaJ&__tn__=%2CO%2CP-R)
+* [2013年1月20日](https://www.facebook.com/yieshengchen/posts/450943861638494?__cft__[0]=AZVg9S5w9NxwyCk1E2qkUA_L6bIVUVfwevCoAj8h6Xn1MBvWPN8pUStwdj2FkWcQE5R9iIUmhBb6YfLwz7yslireCCM9zOsqjUWb2cW4lwnaucG7A1T7AUxEqxbaDObGTKRndwJQ16gNCIA8Tw2Zo-JK&__tn__=%2CO%2CP-R)
+* [2013年1月20日](https://www.facebook.com/yieshengchen/posts/204189449705930?__cft__[0]=AZX3bQJ527dsFMdzxOl2s9rdgmQl3hg4XQcyqKX1YYXzpYeXLjBwaNN_33FJlXJ21XLcxyo9WtSX7SPguUV4lBmX2gcQAslQmQxWAdmi7isWHTitCVRZcznFAsjfcwao0BCN5Vh7WIrS9plAO2dP5uyal1KVL_LqiHqyEAdujowfYC34DCh3Z_l4ii4TvBfLIcUuT0SlInqFGTM5pRuKEUa_&__tn__=%2CO%2CP-R)
+* [2013年1月20日](https://www.facebook.com/yieshengchen/posts/594972847183669?__cft__[0]=AZVBBH7zqxSW42VaVp3-pkdaBNr3oeZccX1iSSj7amw9KgRt54B3exGXewyFC1FclNYX_bPu6AdtLKOfPCcd5gZ7hHYapcJdMtLcIjhFjV3OmTaSOoianqQrYdS5GSGR0tEjrYi4HbHRcM3Jd86aOhub57GDXfdR1JfmUwXnb5wBwVg7r3CXQZZ-frb4a6QNsxhixKqruW4pYVp7XDVwpycL&__tn__=%2CO%2CP-R)
+* [2013年1月20日](https://www.facebook.com/yieshengchen/posts/450938858305661?__cft__[0]=AZWUEF6IU9ywQt6R0vd2zTmYbV1jkuyH50404gY1_xSFvgcA4XE94vnThGwRMrxlzUTTbw2RkfybmltjtG3NMF4ykf05QMPEg_KDJXKAp8eekw19nDBS8GgcYuxFSbIkXdwL1a6M86r-cbApG4P7RN14&__tn__=%2CO%2CP-R) 也是第一個科學家首相
+* [2012年1月20日](https://www.facebook.com/yieshengchen/posts/268011149931767?__cft__[0]=AZVWBx6h6Lt0LBQXYDLkBj6pXVNo-NPlPpUduhN8_9rUqLw6A6Q65zR3ffLIoQm5HgVxBVx6aFZeySE1b9tgl4AKr1_opMSogq9SOrEmXDvRtsH5ubQz6wwyaLs5I_gRIeeu64XAMigIim1xkwUDA7bI&__tn__=%2CO%2CP-R) 海技 tetris 對打模擬
+* [2014年1月18日](https://www.facebook.com/yieshengchen/posts/655962931136585?__cft__[0]=AZV7UdQrCLHYc2NjF9abDpM0Vv5atv-epzsnOscBuK383xf_5ubqGLEtih58hQvBL-dJCfUkH5EN83LTRMPv4u1X-9enNpwMtz5HKHdXiMpSJkWlAIEst8qx_mCar5PEynps867U9vlXOSa9gH-EPf6w&__tn__=%2CO%2CP-R) Fortune Street Music - Observatory (Heaven's Prayer) - YouTube
+* [2014年1月18日](https://www.facebook.com/photo/?fbid=655908417808703&set=a.123296207736596&__cft__[0]=AZUzvAYyZREkmYU1gfETBBTkck77elSPBHJThPWRviMWxTME1wAxXbZTRjtQvtQIebnmM-6SGHGdgI9ILaBHv4LNDvcvXe_d6FqgVGoXIRQJjAFyUN9T8WeEg448KBHGHVyVb3s5clAfW5If_awxqhqkoPF7tVZ1uzd4GkscIkb9Ow&__tn__=%2CO%2CP-R) Urban Spaces in Japan : Cultural and Social Perspectives
+* [2014年1月18日](https://www.facebook.com/yieshengchen/posts/655899207809624?__cft__[0]=AZXI04cjhjFHJCCT6NaaS2wKURQ__cnTg8M6XneztAPvVIjyL-MizYsrn3ElTIWekqfRiyeToTWw5HcHq6s-_wfAHdFG1GSs2DY5kw_1CZ1jTZZd1EULYsdskCcljBX90zS8m3YnxJvwxRcUkJN_vjFI&__tn__=%2CO%2CP-R) a perpetual flux and movement
+* [2014年1月18日](https://www.facebook.com/photo/?fbid=655880734478138&set=a.123296207736596&__cft__[0]=AZXSe01Fv7VWusAhbkUzK2O-7Uo00ipleVnBnb29Hb4MjlEy1fkpfGTUOFM195HeKYoD4baSZfAeelI8DnvuKWLnoNvfuReGqAxCsHfiiefnK4UNAufVijz6g1NB2Js7sPgmB3RO1qyrmDYpqvJhsxWNhYLIG-N2HSTrxKnzvSEycQ&__tn__=%2CO%2CP-R)
+* [2014年1月18日](https://www.facebook.com/yieshengchen/posts/655876434478568?__cft__[0]=AZW1406XRApxmJdF1u-Ckxf2nrwmDgFKjrDm9ulgLpG2lB1lTwJWeGxh1uAPZ3rHEfap84Xi9036TwPoZu_6tS9QXZEDQPZD2NIufmv7NNMcn2Wc3gbYbb2mAebv0EiqcDULJwJRuC5c6Kc_sSsi9lr5&__tn__=%2CO%2CP-R)
+* [2014年1月18日](https://www.facebook.com/yieshengchen/posts/655859261146952?__cft__[0]=AZXpog70s7kvKMCQT6AEj8pO2zwIkQGFoRMYvaxS5A2W4-JZ3HD4pfyPu2koSoNJezFmh08rpHZ_bHPI9FhPMd3CJ0uaC3AUqbNYy1jSXPPpKzQnazSPjp_XS5YBoRbsc1Mr4IJtoX1d2dIT00ZYkb_IU1F5oG1m7jvj7zwpxfqZ-Q&__tn__=%2CO%2CP-R) 不知道是誰幫圍牆塗過油漆
+* [2014年1月18日](https://www.facebook.com/yieshengchen/posts/655816634484548?__cft__[0]=AZWDuBw-MGvUQUHdzIRtGprtj5yz0qJCfzx5jiGIk2umRROxnFH1jhBjvDSHWAcYAC-lnh9cSl11mMUYyvrRCNN2D3Ps8Lwgm5W3VaP6hvg2pUhlWqjOYlX25zH_ADydeulvPDCDUDKvZvbt8cBQyJen3GJsdwucZwjAPjv4F3WKkg&__tn__=%2CO%2CP-R) 那隻狗叫做 java
+* [2014年1月18日](https://www.facebook.com/photo/?fbid=655522771180601&set=a.123296207736596&__cft__[0]=AZWmF8wSBqnjqi-PZ-8qNullcuhKC8caJfHMZPslome0uwXId609HzdHnCUwMBA6DahojZFEIs0xTIMmVOqI8vcJ0gToRcO7b9zmu1zm1NcfhHupuEF4QnLT2tkHyhzCe0H0Fjpfv7QTSn2eE9YzkKSVyjKF94dLLn3N6eQhGdbQww&__tn__=%2CO%2CP-R) 本來以為星期五晚上 ;可以像平常一樣悠閒的搭著離峰時段幾乎沒人的公車
+* [2013年1月18日](https://www.facebook.com/yieshengchen/posts/450040685062145?__cft__[0]=AZUaeJ3WcmydbjZcg-xSQlTjm_09pvmvawMB2XWQz1Y-RnVm-ewndVaZ7-MIxjzdxXvicOedbwwFrzrhI86zeaElAEMXsfZKezWLc7K9Ae9dEiEISeyVdM7VRCrB8qWYStgBse5DYvFc8On4IiCjfFG13iqDkVjth0QAFk-SbkkyWw&__tn__=%2CO%2CP-R) 深夜的機場會有 MIB 的感覺?
+* [2013年1月18日](https://www.facebook.com/yieshengchen/posts/450036168395930?__cft__[0]=AZXWAsFEQUptEUPAJR2IHegaFbr3jdNqvuNifgblbeCoXEZKHA1kxtmwFZGZlWuzy2rp53YY2pr5zLL7COq6KVBAvc4HUAF-ZU-zt6a-xuFm-shfP8JGXyJZTlTwLopMikpmsbRrFPmBXtGCm3_P6AmpbGciU1HAocf5vtAH2cpxew&__tn__=%2CO%2CP-R) 日幣五圓很吉祥
+* [沒有其他內容了明天返回查看，就能看到更多動態回顧喔](https://www.facebook.com/memories/?source=notification&notif_id=1642536798862450&notif_t=onthisday&ref=notif)
+* [2021年12月20日下午5:19](https://www.facebook.com/photo/?fbid=4792850324114471&set=p.4792850324114471&__tn__=%2CO*F)
+* [PXL_20220118_034223104](https://www.facebook.com/photo.php?fbid=4896221963777306&set=p.4896221963777306&type=3&av=100001686510997&eav=AfbQDWErJAF03KMJRaYPUs41DJNNBbcTptF_8qvCgjjhkGSiH9_n2r9EqYfh4EWigik)
+* [PXL_20220114_164508168](https://www.facebook.com/photo.php?fbid=4896215543777948&set=p.4896215543777948&type=3&av=100001686510997&eav=Afa9OMdqvEvtXRGQUi4FobUXHs8h3A2DmF8c4Zr3aLPIkS8iCBe7KnTVO5WuJDynII4) [2天](https://www.facebook.com/photo/?fbid=4896215543777948&set=p.4896215543777948&__tn__=%2CO*F)
+* [PXL_20211218_001450102](https://www.facebook.com/photo.php?fbid=4792850324114471&set=p.4792850324114471&type=3)
 * []()
 
 
@@ -274,6 +338,7 @@ $ youtube-dl --version
 * web.mit.edu/dimitrib/www/AbstractDP_ED3_TEXT_2021.pdf
 * web.mit.edu/dimitrib/www/Abstract_DP_2ND_EDITION_Complete.pdf
 * web.mit.edu/dimitrib/www/LessonsfromAlphazero.pdf
+* DP textbook [Ber12][Ber12] Bertsekas, D. P., 2012. Dynamic Programming and Optimal Control, Vol. II, 4th Ed., Athena Scientific, Belmont, MA.
 * []()
 
 
@@ -322,6 +387,7 @@ $ youtube-dl --version
 * [13週;P_20210721_160408](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4555669817832524&__tn__=R*F)
 * [11週;P_20211021_133537](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4596817667051072&__tn__=R*F) [P_20211021_133537](https://www.facebook.com/photo.php?fbid=4596817450384427&set=p.4596817450384427&type=3&__tn__=R*F)
 * [3週;PXL_20211218_001450102](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4792850490781121&__tn__=R*F)
+* [2021年9月26日](https://www.facebook.com/photo/?fbid=4509110249155148&set=p.4509110249155148&__tn__=%2CO*F) [P_20210725_184448](https://www.facebook.com/photo.php?fbid=4509110249155148&set=p.4509110249155148&type=3)
 * []()
 * []()
 
@@ -334,6 +400,7 @@ almost all of the formulas
 have been wiped out from your
 memory, you still have the
 basic concepts. 
+
 ```
 * [September 9, 2021](https://www.facebook.com/photo/?fbid=4454057547993752&set=p.4454057547993752&__tn__=%2CO*F)
 Q1: Can you show us the concept of Bayes' theorem using diagram?
@@ -370,6 +437,29 @@ It's the probability of A1
 and then B happening
 given that A1 happens.
 * []()
+```
+unm/21F/533ExprMethod/caption $ grep -ir -e markov
+lec.20.100821.srt.txt:have hidden Markov
+lec.20.100821.srt.txt:see Markov models,
+lec.20.100821.srt.txt:Markov models and
+lec.08.srt.new.txt:Markov chains,
+lec.08.srt.new.txt:Markov chains.
+
+Lectures:
+11/12	(F):	Markov	Chains
+11/15	(M):	Markov	Chains	and	Poisson	Processes	(PAPERS	ASSIGNED:	due	12/6)
+Prerecorded	lecture:	Experimental	Algorithmics	(available	on	11/15,	quiz)
+11/17	(W):	Monte	Carlo	Simulations	
+11/19	(F):	Time	Performance	(feedback	on	Project	2)
+11/22	(M):	More	on	Time	Performance	(PROJECT	3	ASSIGNED:	due	12/14	midnight)
+11/24	(W):	Solution	Quality	+	Optimization	Problems
+11/29	(M):	More	on	Solution	Quality
+12/1	(W):	Tuning	Algorithms	and	Code
+12/3	(F):	Validation,	Verification	and	Benchmarking
+Prerecorded	lecture:	Human-Computer	Interaction	experiments	(last	week,	quiz)
+12/6 – 12/10	(last	week	of	classes):	Presentations	(zoom)
+```
+* []()
 
 
 ### CS 454/554 Compiler Construction
@@ -403,9 +493,140 @@ breaking problem, basically.
 
 ## 22S preview
 ```
+585
+Title: Computer Networks
+03:30 PM - 04:45 PM
+Electrical & Comp Engineering | Room 118
+,
+,
+591
+ST: Computational Fabrication
+01/17/2022 - 05/14/2022
+09:30 AM - 10:45 AM
+Science Math Learning Center | Room 356
+,
+,
+580
+Title: The Specification of Software Systems
+will cover the specification of sequential and concurrent systems.
+04:00 PM - 06:30 PM
+Centennial Engineering Center | Room 1032
+,
+,
+592
+Title: Colloquium
+02:00 PM - 03:00 PM
+```
+* []()
+
+
+### 22S 592 Fab
+```
 $ youtube-dl --version
 2021.04.01 
 ```
+* [HW01](https://handandmachine.org/classes/computational_fabrication/2022/01/12/small-assignment-1-introductions-and-inspiration/)
+* [PXL_20220114_163901201](https://www.facebook.com/photo.php?fbid=4898037360262433&set=p.4898037360262433&type=3)
+* [2天](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4898037810262388&reply_comment_id=4898294323570070&__tn__=R*F)
+* [3小時](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4898037810262388&reply_comment_id=4908410292558473&__tn__=R*F)
+* [PXL_20220120_181436217](https://www.facebook.com/photo.php?fbid=4908410152558487&set=p.4908410152558487&type=3&av=100001686510997&eav=AfZrO1oFdGFqmn572nkULF445d1Mxg8pcwhfO4tJKfdPESMrlg9_CJ0qEMM0-wO1GQ0)
+* [PXL_20220118_180307771](https://www.facebook.com/photo.php?fbid=4898286846904151&set=p.4898286846904151&type=3&av=100001686510997&eav=Afbnl2lu_ggyAKEPjWuD8zts2HYEJPAibKwxr4RK-IveHz7WeaRzWVWGc5hVDZkCy3k)
+* [2天](https://www.facebook.com/photo/?fbid=4898286846904151&set=p.4898286846904151&__tn__=%2CO*F)
+*  
+
+### 22S 585 Computer Networks
+```
+- What did you do yesterday?
+- What are you going to do today?
+- Are there any blockers? 
+```
+* [6-02,assignments](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/assignments/)
+* [MIT6_02F12_ps7](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/assignments/MIT6_02F12_ps7.pdf)
+* [youtube ; 17. Packet switching](https://www.youtube.com/watch?v=9HCUnJB9ovk)
+* [caption/602-12F](https://www.cs.unm.edu/~tallpik3/caption/602-12F/)
+* [.py Files for problem set 7](https://www.cs.unm.edu/~tallpik3/22S/585N/ps7/) 
+  * 6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/assignments/ps7.zip
+* [PXL_20220118_222155847](https://www.facebook.com/photo.php?fbid=4898906750175494&set=p.4898906750175494&type=3&av=100001686510997&eav=AfagRXrHwG74E8FbOuohL5vWBHMgP0buw3dOOzpv7A69v0t_4UGL7I9TFsnxLrTtQ30)
+* [PXL_20220120_235622096](https://www.facebook.com/photo.php?fbid=4909189515813884&set=p.4909189515813884&type=3&av=100001686510997&eav=AfZSwl3B0gTBQAANaONO5H1NQr2DCBMJBBPhJH3TI_v3Si7wwylvs03oCDzqzbZuoRc&__tn__=R*F) [剛剛](https://www.facebook.com/photo/?fbid=4909189515813884&set=p.4909189515813884&__tn__=%2CO*F)
+*  
+#### MIT6_02F12_ps7.pdf
+```
+
+```
+* Introduction to this week's Python tasks. This lab uses WSim, a simple packet-level network simulator for a shared medium network. You will be writing a small amount of code to develop various MAC protocols and measure how they perform under different conditions. Much of your work will be on experimenting with various parameters and explaining what you observe. The amount of new code you have to write is rather small. In each experiment, all the nodes run the same MAC protocol. The simulator executes a set of steps every time slot; time increments by 1 each slot. You can run the python programs for this lab using python from the terminal command line, e.g., python PS7_???.py. This lab may not work well in IDLE (you can use IDLE to edit files, but running them may not work as expected). 
+*  
+
+#### circuit vs packet swithing
+![](https://i.imgur.com/zwmbsHj.png)
+* Walpole, Ronald E._ Myers, Raymond H._ Myers, Sharon L._ Ye, Keying - Probability & statistics for engineers & scientists-Pearson (2017)
+  * Chapter 5 Some Discrete Probability Distributions
+  * 5.1 Introduction and Motivation
+  * 5.2 Binomial and Multinomial Distributions 
+    * The number X of successes in n Bernoulli trials is called a binomial random variable.
+  * 8.4 Sampling Distribution of Means and the Central Limit Theorem
+    * The first important sampling distribution to be considered is that of the mean X¯.
+    * Central Limit Theorem: If X¯ is the mean of a random sample of size n taken from a population with mean μ and finite variance σ2 , then the limiting form of the distribution of Z = X¯ − μ σ/√n , as n → ∞, is the standard normal distribution n(z;0, 1).
+* http://www.eecs.umich.edu/courses/eecs489/w07/hw2solution.pdf
+* 
+
+#### caption/6041-10F/
+```
+lecture-1-probability-models-and-axioms.j9WZyLZCBzs.srt
+lecture-10-continuous-bayes-rule-derived-distributions.H_k1w3cfny8.srt
+lecture-11-derived-distributions-convolution-correlation.l4NoMKEHQwM.srt
+lecture-12-iterated-expectations-sum-of-a-random-number-of-random-variables.P7a4bjE6Crk.srt
+lecture-13-bernoulli-process.gMTiAeE0NCw.srt
+lecture-14-poisson-process-i.jsqSScywvMc.srt
+lecture-15-poisson-process-ii.XsYXACeIklU.srt
+lecture-16-markov-chains-i.IkbkEtOOC1Y.srt
+lecture-17-markov-chains-ii.ZulMqrvP-Pk.srt
+lecture-18-markov-chains-iii.HIMxdWDLEK8.srt
+lecture-19-weak-law-of-large-numbers.3eiio3Tw7UQ.srt
+lecture-2-conditioning-and-bayes-rule.TluTv5V0RmE.srt
+lecture-20-the-central-limit-theorem.Tx7zzD4aeiA.srt
+lecture-21-bayesian-statistical-inference-i.1jDBM9UM9xk.srt
+lecture-22-bayesian-statistical-inference-ii.XtNXQJkgkhI.srt
+lecture-23-classical-statistical-inference-i.4UJc0S8APm4.srt
+lecture-24-classical-inference-ii.tBUHRpFZy0s.srt
+lecture-25-classical-inference-iii-course-overview.rYefUsYuEp0.srt
+lecture-3-independence.19Ql_Q3l0GA.srt
+lecture-4-counting.6oV3pKLgW2I.srt
+lecture-5-discrete-variables-probability-expectations.3MOahpLxj6A.srt
+lecture-6-discrete-random-variable-examples-joint-pmfs.-qCEoqpwjf4.srt
+lecture-7-multiple-variables-expectations-independence.EObHWIEKGjA.srt
+lecture-8-continuous-random-variables.mHfn_7ym6to.srt
+lecture-9-multiple-continuous-random-variables.CadZXGNauY0.srt
+```
+* [caption/6041-10F/](https://www.cs.unm.edu/~tallpik3/caption/6041-10F/)
+* 
+
+#### caption/stat110/
+```
+[TXT]	Lecture-6-Monty-Hall,-Simpson-s-Paradox.fDcjhAKuhqQ.srt.txt	2021-11-20 23:25	44K	 
+[TXT]	Lecture-29-Law-of-Large-Numbers-and-Central-Limit-Theorem.OprNqnHsVIA.srt.txt	2021-11-20 23:15	40K	 
+Apache/2.4.29 (Ubuntu) Server at www.cs.unm.edu Port 443
+```
+
+### 22S 580
+```
+580
+Title: The Specification of Software Systems
+will cover the specification of sequential and concurrent systems.
+04:00 PM - 06:30 PM
+Centennial Engineering Center | Room 1032
+```
+* [PXL_20211226_191134568](https://www.facebook.com/photo.php?fbid=4820119581387545&set=p.4820119581387545&type=3) daily scrum meetings
+* [PXL_20220119_005534768](https://www.facebook.com/photo.php?fbid=4904619292937573&set=p.4904619292937573&type=3) serializable
+* 
+
+### 22S 592 colloquim
+```
+592
+Title: Colloquium
+02:00 PM - 03:00 PM
+```
+* [PXL_20220114_234023968](https://www.facebook.com/photo.php?fbid=4902622399803929&set=p.4902622399803929&type=3) Talk Title: Algorithmic Programmable Matter
+* [PXL_20220119_220813918](https://www.facebook.com/photo.php?fbid=4903900409676128&set=p.4903900409676128&type=3&av=100001686510997&eav=AfZYJMqydtb5b0euDOp_ScCYF0GOVnUmswikGaQNoJDvZkqqJ0HBbwgFsWaR5KRIPEk) Markov Chain Algorithm for Compression in Self-Organizing Particle Systems
 * []()
 
 
