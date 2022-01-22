@@ -436,6 +436,7 @@ consisted of--
 It's the probability of A1
 and then B happening
 given that A1 happens.
+* [PXL_20211210_172820079](https://www.facebook.com/photo.php?fbid=4751634728236031&set=p.4751634728236031&type=3) BOA: The Bayesian optimization algorithm
 * []()
 ```
 unm/21F/533ExprMethod/caption $ grep -ir -e markov
@@ -517,7 +518,7 @@ Centennial Engineering Center | Room 1032
 Title: Colloquium
 02:00 PM - 03:00 PM
 ```
-* []()
+* []() github.com/speculaas/mdnotebooks/
 
 
 ### 22S 592 Fab
@@ -567,7 +568,8 @@ $ youtube-dl --version
     * The first important sampling distribution to be considered is that of the mean X¯.
     * Central Limit Theorem: If X¯ is the mean of a random sample of size n taken from a population with mean μ and finite variance σ2 , then the limiting form of the distribution of Z = X¯ − μ σ/√n , as n → ∞, is the standard normal distribution n(z;0, 1).
 * http://www.eecs.umich.edu/courses/eecs489/w07/hw2solution.pdf
-* 
+* echo "Enter m3u8 link:";read link;echo "Enter output filename:";read filename;ffmpeg -i "$link" -bsf:a aac_adtstoasc -vcodec copy -c copy -crf 50 $filename.mp4
+* chmod  -R o+rx public_html/
 
 #### caption/6041-10F/
 ```
@@ -598,6 +600,9 @@ lecture-8-continuous-random-variables.mHfn_7ym6to.srt
 lecture-9-multiple-continuous-random-variables.CadZXGNauY0.srt
 ```
 * [caption/6041-10F/](https://www.cs.unm.edu/~tallpik3/caption/6041-10F/)
+* [20. Central Limit Theorem](https://www.youtube.com/watch?v=Tx7zzD4aeiA) 觀看次數：66,843次2012年11月9日
+* [6-041 fall-2010/lecture-notes/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/lecture-notes/)
+* [lecture-20-the-central-limit-theorem/MIT6_041F10_L20.pdf](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-20-the-central-limit-theorem/MIT6_041F10_L20.pdf)
 * 
 
 #### caption/stat110/
@@ -606,6 +611,64 @@ lecture-9-multiple-continuous-random-variables.CadZXGNauY0.srt
 [TXT]	Lecture-29-Law-of-Large-Numbers-and-Central-Limit-Theorem.OprNqnHsVIA.srt.txt	2021-11-20 23:15	40K	 
 Apache/2.4.29 (Ubuntu) Server at www.cs.unm.edu Port 443
 ```
+* [Lecture 6: Monty Hall, Simpson's Paradox | Statistics 110](https://www.youtube.com/watch?v=fDcjhAKuhqQ)
+* [Lecture 1: Probability and Counting | Statistics 110](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
+
+#### caption/6033S05/
+```
+Lecture-04-Naming.zm2VP0kHl1M.srt
+Lecture-05-Fault-isolation-with-clients-and-servers.RmdAWsvcsZw.srt
+Lecture-06-Virtualization--virtual-memory.TPeKtQykujI.srt
+Lecture-07-Virtual-processors--threads-and-coordination.vMJshx7SO6Y.srt
+Lecture-08-Performance.RR6DHXgT_5E.srt
+Lecture-09-Introduction-to-networks.uKYAcK2JXo0.srt
+Lecture-10-Layering-and-link-layer.r0o9DJmvYNg.srt
+Lecture-11-Network-layer--routing.kIErDkOepts.srt
+Lecture-12-End-to-end-layer.Z2ENBilJWN0.srt
+Lecture-13-Congestion-control.HxOA8HrVzPg.srt
+Lecture-14-Distributed-naming.PcPSF8kdgAQ.srt
+Lecture-15-Reliability.Tpnla9TdOyY.srt
+Lecture-16-Atomicity-concepts.Oo4iCE48xCc.srt
+Lecture-17-Recoverability.s_fjGI6PSI8.srt
+Lecture-18-Isolation.9500J3lgu6U.srt
+Lecture-19-Transactions-and-consistency.BOR5n_nP1ps.srt
+Lecture-20-Multi-site-atomicity.o-orfTyTXow.srt
+Lecture-21-Security-introduction.SCpzazvhXaU.srt
+Lecture-22-Authentication.xEgcKKE9GmA.srt
+Lecture-23-Authorization-and-confidentiality.mBd1nntUgHc.srt
+Lecture-24-Advanced-authentication.BmjKER_e7-s.srt
+Lecture-25-Complex--trusted-systems.TXgH4G81iH0.srt
+```
+* []()
+* ia800300.us.archive.org/25/items/MIT6.033S05/ocw-6.033-32123-14feb2005-220k.mp4
+
+#### caption/MIT18_650F16/srt/
+```
+lecture-01-Introduction-to-Statistics.VPZD_aij8H0.srt
+lecture-02-Introduction-to-Statistics-cont.C_W1adH-NVE.srt
+lecture-03-Parametric-Inference.TSkDZbGS94k.srt
+lecture-04-Parametric-Inference-cont-Maxi.rLlZpnT02ZU.srt
+lecture-05-Maximum-Likelihood-Estimation-cont.0Va2dOLqUfM.srt
+lecture-06-Maximum-Likelihood-Estimation-cont-Method-of-M.JTbZP0yt9qc.srt
+lecture-07-Parametric-Hypothesis-Testing.phbw9r1iUDI.srt
+lecture-08-Parametric-Hypothesis-Testing-cont.4HRhg4eUiMo.srt
+lecture-09-Parametric-Hypothesis-Testing-cont.QXkOaifVfW4.srt
+lecture-11-Parametric-Hypothesis-Testing-cont-Testing-Goodn.a66tfLdr6oY.srt
+lecture-12-Testing-Goodness-of-Fit-cont.vMaKx9fmJHE.srt
+lecture-13-Regression.yP1S37BiEsQ.srt
+lecture-14-Regression-cont.JBIz7UadY5M.srt
+lecture-15-Regression-cont.V4xOdtqic3o.srt
+lecture-17-Bayesian-Statistics.bFZ-0FH5hfs.srt
+lecture-18-Bayesian-Statistics-cont.k2inA31Gups.srt
+lecture-19-Principal-Component-Analysis.WW3ZJHPwvyg.srt
+lecture-20-Principal-Component-Analysis-cont.a1ZCeFpeW0o.srt
+lecture-21-Generalized-Linear-Models.X-ix97pw0xY.srt
+lecture-22-Generalized-Linear-Models-cont.mc1y8m9-hOM.srt
+lecture-23-Generalized-Linear-Models-cont.OYcdw5vOgIc.srt
+lecture-24-Generalized-Linear-Models-cont.lWW54ts9Ubo.srt
+```
+* []()
+
 
 ### 22S 580
 ```
