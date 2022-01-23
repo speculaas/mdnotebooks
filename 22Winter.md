@@ -388,7 +388,18 @@ $ youtube-dl --version
 * [11週;P_20211021_133537](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4596817667051072&__tn__=R*F) [P_20211021_133537](https://www.facebook.com/photo.php?fbid=4596817450384427&set=p.4596817450384427&type=3&__tn__=R*F)
 * [3週;PXL_20211218_001450102](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4792850490781121&__tn__=R*F)
 * [2021年9月26日](https://www.facebook.com/photo/?fbid=4509110249155148&set=p.4509110249155148&__tn__=%2CO*F) [P_20210725_184448](https://www.facebook.com/photo.php?fbid=4509110249155148&set=p.4509110249155148&type=3)
-* []()
+* [2019年1月23日](https://www.facebook.com/yieshengchen/posts/2162988510434012?__cft__[0]=AZVZh7EwpV4QKJQf0Iy8UcnpoXsi8rcuGLESVA4b_cr7J6ln59pjN6RYCQbjVqRrQpmRz4tE5D5EhOWkN1HoK-6_hxN94KWefVFryt-7JS7DnLaEWAgenUnC0XIlUJY_mJpaiLUXoJlkkfce_P2417jr&__tn__=%2CO%2CP-R) 最近這兩天, 上傳到 youtube, 再點一點滑鼠 (開放社群提供字幕, 也就是開放 google auto caption 的意思?), 一個學期的課程字幕,  就這樣拿到手了呀 
+* [2019年1月23日](https://www.facebook.com/yieshengchen/posts/2162968673769329:0?__cft__[0]=AZXWlpqLxEQ3UImYxed2if2XlsxlakGaN3diw_DwwZPl4j2AUYTjv3pNQNQLSb3wFY4jeFKYi6uLPEiFAhpTv59VEsQjGcSc6Q-UDc14euDVh2ntHNOqtSDyFktbwDTgDWM9l0ZagD5JSAcPzFA-YnqENLdJqYVbMJL0xQCQqPh8lw&__tn__=%2CO%2CP-R)
+* [2019年1月23日](https://www.facebook.com/yieshengchen/posts/2162967620436101?__cft__[0]=AZVBeO8ozT5ChjfEfk-sMbJ2X7A6aaXmIiG7ZqqEp7F57JISgS2vc-_GY6oT5RRHIAovhYK26a8jAW4OkZ4OE7NW6kCp9oZDhNYRAhIL_qY2dOWYX2ga8DK36Pb4twPvOiXFEUMeh4j9Yh-T9KruGaat0hkEDhtPMnujBhjKimj5KA&__tn__=%2CO%2CP-R)
+* [2014年1月23日](https://www.facebook.com/yieshengchen/posts/658650044201207?__cft__[0]=AZVFmaDBv5Lujy7LIkIHetFeY1PthOgIQH8SfD_0M_SyeYVo1ovcObUt2DxqFQWI6EnOusN-rrFiutQhjby-8adMT3b703fFguKhR_PFDYoBVRtR0WI5TZ6R9DOun0f2mVaYUjyaUfLro-sY1h71EueB&__tn__=%2CO%2CP-R) Talking_Rain
+* [2014年1月23日](https://www.facebook.com/yieshengchen/posts/658464744219737?__cft__[0]=AZXCc2x6_H7MwtrSOQqQyUNc_JA6Tq3WQ3c1Ar5vSmn-Tv0lEeILpn1u9kFlafRp22MaA6JF3PqZGRoilNEzWwTOp_mspFLYs2rTPmbG3WwahhisKtcBXp2lcGxl7-oGse9SUcCgk9-z19QTKE1oNKjI6Ja43GbWyHNEkayHisGiMw&__tn__=%2CO%2CP-R) Spoon boy: Then you will see that it is not the spoon that bends, it is only yourself. 
+* [2014年1月23日](https://www.facebook.com/yieshengchen/posts/658420274224184?__cft__[0]=AZUqzedRU6Bgp9j5-LPiBYGbwoQdDC3veKSRRVTke0f7Z6IRqSdturn5UNOcGPhN9kX3MsAdXBqYGN5BqrzADEqkBTRVamRZdw-YlBZ9YmgilzmNyNh34--Bbw4g8k3k3IkhOcbp-Vn0Xf3vC4woRU2E&__tn__=%2CO%2CP-R)
+* [2013年1月23日](https://www.facebook.com/yieshengchen/posts/452670181465862?__cft__[0]=AZXi2EqQ4WAaGIYlRYYoJo9A20Sa7ABX02AMkpxt-6GJi6NvXbHHabcbiUA7-pBwdBl0JJvJ1rE-VgL-AXjC640yNN1F2CQ7fmhPcmAsoFgsAnxr1yGqbVpgNkuK9e9VDhgyph8SPnvSXXSnxnmcMg2N&__tn__=%2CO%2CP-R) wiki/Erhu
+* [2012年1月23日](https://www.facebook.com/yieshengchen/posts/270260883040127?__cft__[0]=AZUgPMdb2vbg0Q8c9lAVImbjfyEOPOE26RxF0avPdXJDpFTAGdvA09iejwQ7ijBcUARn4hGRd3DRyzWiAaFn3SY7rCNtTNYSXp-0PjO805-IJr06ElbshfpK58RiSAFPnKHq-Eb2pP2zIO5a9XwOCAFs&__tn__=%2CO%2CP-R) CDW
+* [2012年1月23日](https://www.facebook.com/yieshengchen/posts/269983856401163?__cft__[0]=AZWN6eVN00ipP9FiYjmq2ulviEUfVfLEiWcFY6QvZTiI0Cu6JdRjd9gUmYM5Fk-02BZ2UcU2OsJvCjQVfv6cAupoBecXmwXUqRgOeEo__AM0hQKUXhVpc2jLbaWwzB0x-jsQIsaxjbaukuAEhIuSh49T&__tn__=%2CO%2CP-R) "dont just watch cricket"
+* [2012年1月23日](https://www.facebook.com/photo/?fbid=269947363071479&set=a.123296207736596&__cft__[0]=AZVAecipp0i_wJtM_lqw_NX-lplcqsCa5XqMRSDfOot06jDEdvl5fqLyW7kfUwrxEv7B2aqOoNrGl5zo2KE-G0hnkSrUZ-GfCuGB_elb7OqLFcSD9uiMRfgTh_4oQcdCbgndpjHW9fGFSSU14mdOT7nnMtDkvuVISCvSP9po_eozHQ&__tn__=%2CO%2CP-R)
+* [2013年1月22日](https://www.facebook.com/photo/?fbid=452095591523321&set=a.123296207736596&__cft__[0]=AZXjVopCxVg2TGy5hfj5jrR1I4SUlsh_8QgRLtiAgbpEgW4UoF_m_e0ptkJ8HwQUL_a0lVKd9qiRhLGUc4UoVTbNhYcbe6IbHu8MGwWLMvABPCRDxcmjM7rYZqPlYefYssUcKKxJKJhpz5tdugwPbnHoqzrHgEUAe-4Az3-M-u8dHg&__tn__=%2CO%2CP-R)
+* [2013年1月21日](https://www.facebook.com/photo/?fbid=451826051550275&set=a.123296207736596&__cft__[0]=AZXghIwiuZ5x4waWciWKGabhkvFt69g5MxZSzTqlYQQHcc3Pzt2QVDGKNTCuOJ5Tg4RCczVSNT2zT6wQM7wz-mgwWS0PgAAbHnIgQUwNhwQ8i6E6zFAbbiVDjB_3fRlR7Ww6DG03ATsQcVtrLc0ryfOgVU5uh_dQYNDlxpN7FgOAcw&__tn__=%2CO%2CP-R)* []()
 * []()
 
 
@@ -549,7 +560,14 @@ $ youtube-dl --version
   * 6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/assignments/ps7.zip
 * [PXL_20220118_222155847](https://www.facebook.com/photo.php?fbid=4898906750175494&set=p.4898906750175494&type=3&av=100001686510997&eav=AfagRXrHwG74E8FbOuohL5vWBHMgP0buw3dOOzpv7A69v0t_4UGL7I9TFsnxLrTtQ30)
 * [PXL_20220120_235622096](https://www.facebook.com/photo.php?fbid=4909189515813884&set=p.4909189515813884&type=3&av=100001686510997&eav=AfZSwl3B0gTBQAANaONO5H1NQr2DCBMJBBPhJH3TI_v3Si7wwylvs03oCDzqzbZuoRc&__tn__=R*F) [剛剛](https://www.facebook.com/photo/?fbid=4909189515813884&set=p.4909189515813884&__tn__=%2CO*F)
-*  
+* [PXL_20220122_003155449](https://www.facebook.com/photo.php?fbid=4914213705311465&set=p.4914213705311465&type=3&av=100001686510997&eav=Afbh0QXb7EJEdKwLD_51dkApKU061EUDZdmxL7Kr-fGYhDoNcUbe_yQZXqHSc2P8fbo) independent, identically distributed random variables [16分鐘](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&comment_id=4896242107108625&reply_comment_id=4914213875311448&__tn__=R*F)
+* [PXL_20220122_203813246](https://www.facebook.com/photo.php?fbid=4918327011566801&set=p.4918327011566801&type=3&av=100001686510997&eav=AfbKgHQb4ZOJJyikKXN2XTmywZdkSuu9kavmSTPmuBw5zH0UeDD90BBkc4PojGTvDlQ) [33分鐘](https://www.facebook.com/photo/?fbid=4918327011566801&set=p.4918327011566801&__tn__=%2CO*F) called end-to-end arguments and system design
+* [PXL_20220122_203932924](https://www.facebook.com/photo.php?fbid=4918336158232553&set=p.4918336158232553&type=3&av=100001686510997&eav=AfbRFEvRYfxc4ELF3-Ktpk7P_8EDv2NZLyGv355h-Ur_OMZd86AKsYyxvYvTXwkdl9s) [31分鐘](https://www.facebook.com/photo/?fbid=4918336158232553&set=p.4918336158232553&__tn__=%2CO*F) perfection is achieved not when there's nothing more to add but when there's nothing you have to take away
+* [PXL_20220122_203848720](https://www.facebook.com/photo.php?fbid=4918355438230625&set=p.4918355438230625&type=3&av=100001686510997&eav=AfZWyKDB-8OkC0rndoa-qo6lWrSx4NOcPl0YZ3vPY-n72zgy3nrg6UAGB_elQkWvA6g) [25分鐘](https://www.facebook.com/photo/?fbid=4918355438230625&set=p.4918355438230625&__tn__=%2CO*F) transitive trust ; bandwidth delay product
+* [PXL_20220123_002441888](https://www.facebook.com/photo.php?fbid=4918390071560495&set=p.4918390071560495&type=3&av=100001686510997&eav=Afb439LI6vhPehYlBve0NTut3cFpUYQ-lxJMFNG_oT-Sw6J4d2_EORuLyfgmB3wh0Ms) [14分鐘](https://www.facebook.com/photo/?fbid=4918390071560495&set=p.4918390071560495&__tn__=%2CO*F) reliability and sharing
+* [PXL_20220118_042308578](https://www.facebook.com/photo.php?fbid=4896241327108703&set=p.4896241327108703&type=3) [1月18日上午3:57](https://www.facebook.com/photo/?fbid=4896241327108703&set=p.4896241327108703&__tn__=%2CO*F) "Let the semester begin!"
+*   
+
 #### MIT6_02F12_ps7.pdf
 ```
 
@@ -680,7 +698,35 @@ Centennial Engineering Center | Room 1032
 ```
 * [PXL_20211226_191134568](https://www.facebook.com/photo.php?fbid=4820119581387545&set=p.4820119581387545&type=3) daily scrum meetings
 * [PXL_20220119_005534768](https://www.facebook.com/photo.php?fbid=4904619292937573&set=p.4904619292937573&type=3) serializable
+* [PXL_20220122_203953760](https://www.facebook.com/photo.php?fbid=4918346244898211&set=p.4918346244898211&type=3&av=100001686510997&eav=AfZxJHkC2SNZgYAN909LEeCnx4GVvs12RLjxwOezHPMw_JrXVM_kNvKyGFSdzmoRxXw) Cited by 3371 [32分鐘](https://www.facebook.com/photo/?fbid=4918346244898211&set=p.4918346244898211&__tn__=%2CO*F) The temporal logic of actions
+* [1月20日上午12:17](https://www.facebook.com/photo/?fbid=4904619292937573&set=p.4904619292937573&__tn__=%2CO*F)
 * 
+
+#### ?q=is+agile+just+hacking+around&
+```
+,
+, news.ycombinator.com/item?id=9672370
+, news.ycombinator.com/item?id=5406384
+, darkreading.com/endpoint/lean-mean-agile-hacking-machine
+, agiledevelopment.org/agile-talk/115-what-a-hack-is-kanban
+,
+Thereby, forgetting the core of Agility, change.
+,
+, leadershiptribe.com/blog/why-do-developers-dislike-agile
+,
+People also ask
+Why do developers hate agile?
+Search for: Why do developers hate agile?
+Is agile going away?
+Why is agile not SAFe?
+Is agile the future?
+Is agile just micromanagement?
+,
+, news.ycombinator.com/item?id=5406384
+, ?q=is+agile+just+hacking+around&
+,
+```
+
 
 ### 22S 592 colloquim
 ```
