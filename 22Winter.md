@@ -307,6 +307,8 @@ Shakespeare's tragedies but for bad time reading cards romeo giulia all perhaps 
 * [2021年12月20日](https://www.facebook.com/photo/?fbid=4792850324114471&set=p.4792850324114471&__tn__=%2CO*F) [PXL_20211218_001450102](https://www.facebook.com/photo.php?fbid=4792850324114471&set=p.4792850324114471&type=3)
 * [PXL_20220123_035821720](https://www.facebook.com/photo.php?fbid=4918489054883930&set=p.4918489054883930&type=3&av=100001686510997&eav=AfYrZwYW4bdQ1GLGjsajH-fEY2FSpBFlra-WynHLlv_3GVaK-iFqcn1D34ho4SWrQB4) [2天](https://www.facebook.com/photo/?fbid=4918489054883930&set=p.4918489054883930&__tn__=%2CO*F) the heart of proving
 * [](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596) [2021年4月28日](https://www.facebook.com/photo/?fbid=4061900803876097&set=a.123296207736596&__tn__=%2CO*F)
+* [PXL_20220125_044218927](https://www.facebook.com/photo.php?fbid=4928004943932341&set=p.4928004943932341&type=3&av=100001686510997&eav=AfYmdhgomzwn9qYwe_d7G_EUeF3kGXhfCqjIWRJClmMmtkMS0CT8q42jQc6cSxp5U-4) [2分鐘](https://www.facebook.com/photo/?fbid=4928004943932341&set=p.4928004943932341&__tn__=%2CO*F) Might have many common neighbors
+* [P_20211225_165707](https://www.facebook.com/photo.php?fbid=4820126641386839&set=p.4820126641386839&type=3) bed time reading
 * []()
 
 
@@ -466,6 +468,23 @@ It's the probability of A1
 and then B happening
 given that A1 happens.
 * [PXL_20211210_172820079](https://www.facebook.com/photo.php?fbid=4751634728236031&set=p.4751634728236031&type=3) BOA: The Bayesian optimization algorithm
+* [October 10, 2021](https://www.facebook.com/photo/?fbid=4554751261257713&set=p.4554751261257713&__tn__=%2CO*F)
+* [the mathematical statement is a little hard to parse.](https://www.facebook.com/photo.php?fbid=4554751261257713&set=p.4554751261257713&type=3)
+* [P_20211011_145435](https://www.facebook.com/photo.php?fbid=4558353434230829&set=p.4558353434230829&type=3) So there is an epsilon that you have to calculate.
+* [Dear Prof. Max](https://www.facebook.com/photo.php?fbid=4564492100283629&set=p.4564492100283629&type=3) October 13, 2021
+* [John I. Capetanakis. Generalized TDMA: The Multi-Accessing Tree Protocol. Oct 1979.](https://www.facebook.com/photo.php?fbid=4564507550282084&set=p.4564507550282084&type=3)
+* [October 14, 2021](https://www.facebook.com/photo/?fbid=4565724460160393&set=p.4565724460160393&__tn__=%2CO*F)
+* [October 14, 2021](https://www.facebook.com/photo/?fbid=4565800566819449&set=p.4565800566819449&__tn__=%2CO*F) ?q=John+Tsitsiklis+mit&
+* [October 14, 2021](https://www.facebook.com/photo/?fbid=4565949250137914&set=p.4565949250137914&__tn__=%2CO*F) CS-533.lec.16.092921
+* [October 14, 2021](https://www.facebook.com/photo/?fbid=4565955640137275&set=p.4565955640137275&__tn__=%2CO*F) lec.09.srt.txt But the expectation of the sample mean is the true mean
+* [October 14, 2021](https://www.facebook.com/photo/?fbid=4567729196626586&set=p.4567729196626586&__tn__=%2CO*F) And we're going to talk about confidence intervals
+* [October 14, 2021](https://www.facebook.com/photo/?fbid=4568460456553460&set=p.4568460456553460&__tn__=%2CO*F) lec.18.100421.srt.txt
+* [October 14, 2021](https://www.facebook.com/photo/?fbid=4568528006546705&set=p.4568528006546705&__tn__=%2CO*F) cat lec.09.srt.txt | grep -C 2 -e "central"
+* [October 14, 2021](https://www.facebook.com/photo/?fbid=4568590863207086&set=p.4568590863207086&__tn__=%2CO*F) chapter 4 is mathematical is on inequalities
+* [P_20211018_144640](https://www.facebook.com/photo/?fbid=4581438301922342&set=p.4581438301922342&__tn__=%2CO*F) October 19, 2021 It'll be a function of theta, function of your parameters., CS-533.lec.18.100421.mp4
+* [November 20, 2021](https://www.facebook.com/photo/?fbid=4687289918003846&set=p.4687289918003846&__tn__=%2CO*F)
+* [November 26, 2021](https://www.facebook.com/photo/?fbid=4706840192715485&set=p.4706840192715485&__tn__=%2CO*F) MIT18_650F16/srt$ cat lecture-11-Parametric-Hypothesis-Testing-cont-Testing-Goodn.a66tfLdr6oY.srt
+* [P_20211118_174919](https://www.facebook.com/photo/?fbid=4680873301978841&set=p.4680873301978841&)
 * []()
 ```
 unm/21F/533ExprMethod/caption $ grep -ir -e markov
