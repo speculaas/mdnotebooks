@@ -907,6 +907,89 @@ Is agile just micromanagement?
 ```
 
 
+#### CS 580] workshop solution
+```
+Stratego Solution outline 
+Program Stratego 
+declare G : array[1..N, 1..N] of integer range 0..K 
+always 
+  < [] p,q : (1,1)≤p,q≤(N,N) :: 
+               count(p) = < + i : (1,1)≤i≤(N,N) ^ G(i)=G(p)≠0 :: 1 > 
+     []       neighbor(p,q) = p≠q ^ |p-q|≤(1,1) 
+     []       capture(p,q) = neighbor(p,q) ^ G(p)>G(q)=0
+     []       winner(p,q) = neighbor(p,q) ^ count(p)>count(q)>0 
+  >
+initially 
+assign
+  < [] p,q : (1,1)≤p,q≤(N,N) :: 
+               G(q) := G(p) if capture(p,q) 
+         || < || i : (1,1)≤i≤(N,N) :: 
+                 G(i) := GP(p) if winner(p,q) ^ G(i)=G(q)>> 
+  >
+end
+```
+
+```
+Given 
+count(p) = < + i : (1,1)≤i≤(N,N)  ^ G(i)=G(p)≠0 :: 1 >
+if G(p)=0
+the range is empty because (G(i)=G(p)≠0) is false
+in which case the construct defaults to
+the zero value
+
+For multiplication it would default to 1, for union to empty, etc.
+```
+
+```
+Program {in the equational schema} P2
+declare H: array[0..N-1, O..N-1, O..N]
+always
+(11 i,j : H[i,j,O] = W[i,j] )
+(0 k :: (11 ij :: H[i,j,k+1]=min(H[i,j,k],H[i,k,k]+H[kj,k])))
+(11 ij :: d[i, j]= H[i, j,N])
+end {P2}
+```
+
+
+
+```
+Unity Program:
+Program A3
+delare
+ G: array [0..N+1,0..N+1] of integers
+ NM: array [1..N,1..N,1..N,1..N] of boolean
+ Iter: array [1..N,1..N]
+Always
+ < [] i,j : 1<= i <= N ∧ 1<= j <= N :: sum (i,j) = <+ x,y : -1<= x <= 1 ∧ -1<= y <= 1 :: G(i+x,j+y)> - G[i,j] >
+ < [] i,j : 1<= i <= N ∧ 1<= j <= N :: birth(i,j) := true if sum(i, j) - G[i, j] ==3 ~
+ false
+ < [] i,j,x,y : 1<= i <= N ∧ 1<= j <= N ∧ 1<= x <= N ∧ 1<= y <= N:: colony(x,y,i,j) := true if NM[x,y,i,j] ==1 ∨
+ < ∨ : -1 <= xk <= 1 ∧ -1 <= yk <= 1 :: NM[x,y,i+xk,j+yk]==1 >
+ >
+initially
+ < [] i,j : 0<= i <= N+1 ∧ j== 0 :: G[i,j] := 0 [] G[j,i] := 0 >
+[] < [] i,j : 0<= i <= N+1 ∧ j== N+1 :: G[i,j] := 0 [] G[j,i] := 0 >
+[] <|| i,j : 1<= i <= N ∧ 1<= j <= N ∧ 1<= x <= N ∧ 1<= y <= N :: NM[x,y,i,j] := 0 if ¬(i==x ∧j==y) >
+[] <|| i,j : 1<= i <= N ∧ 1<= j <= N :: NM[I,j,I,j] := 1 >
+assign
+ < [] x,y : 1<= x <= N ∧ 1<= y <= N ::
+ < <|| i,j : 1<= i <= N ∧ 1<= j <= N ::
+ G[i,j] := 1 if birth(i,j) ∧ colony(x,y,i,j) == 1 ∧ Iter[x,y] == N ~
+ 0 if colony(x,y,i,j) == 1 ∧ Iter[x,y] == N
+ >
+ || Iter[x,y] :=0 if Iter[x,y] == N
+ || NM[x,y,x,y] := 1 if Iter[x,y] == N
+ || <|| i,j : 1<= i <= N ∧ 1<= j <= N :: NM[x,y,i,j] := 0 if Iter[x,y] == N ∧¬(i==x ∧j==y) >
+ >
+ [] <|| i,j : 1<= i <= N ∧ 1<= j <= N ::
+ NM[x,y,i,j] := < ∨ : -1 <= xk <= 1 ∧ -1 <= yk <= 1 :: NM[x,y,i+xk,j+yk] >
+ || Iter[x,y] := Iter[x,y] + 1
+ >end{A3}
+```
+
+
+
+
 ### 22S 592 colloquim
 ```
 592
