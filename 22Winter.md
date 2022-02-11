@@ -402,6 +402,50 @@ Shakespeare's tragedies but for bad time reading cards romeo giulia all perhaps 
 * [PXL_20220203_053305399](https://www.facebook.com/photo.php?fbid=4964055690327266&set=p.4964055690327266&type=3&av=100001686510997&eav=Afbg3CitjRmaBFGB9NALYPFHdTnZVWnzIYzniP6t-5aaib6F1CzGmi3Cctk0R89cSxo) Notice smallest key is;smaller than anything;we've seen before
 * [1643602565016](https://www.facebook.com/photo.php?fbid=4952150994851069&set=p.4952150994851069&type=3&av=100001686510997&eav=AfbiaKDyo2LiNL60dphXntpenOVN5rjal3PaEyl2k3qhnXFF-EvEX3w6nv6e89QcwGs) 21:16:05.016 GMT-07:00 ; PXL_20220130_211128224 "Proebsting's Law" ; PXL_20220130_210305525 CloudLab cloud-systems testbed
 * [PXL_20220130_211142751](https://www.facebook.com/photo.php?fbid=4952041841528651&set=p.4952041841528651&type=3&av=100001686510997&eav=AfYQVI-SCPo17d-XWuG_1de7ScV6JkcxwNs9y0JfWJ2bCwo_EmlR9xfmQtDqZLxDedo) ?search_query=Jayadev+Misra+unity
+* [2014年2月8日](https://www.facebook.com/yieshengchen/posts/666632503402961?__cft__[0]=AZUsINTKlLTXcjuVtZfsnvG1U2Jt8XPN48C-nzXZ5gYxNv-oC65E8D9_PSML9CIemMitAZHQ3a7HhEM6D8kwVof4aqSAE_ATAZhYTKM8NQfGCt4xEsGjc4j8rl4N87V3Lszd5vCgF-dR3DH-zWEjv2I-&__tn__=%2CO%2CP-R) 剛剛下大雨開 san jose 和 daly city 間的高速公路 ... 冏rz 
+* [2014年2月8日](https://www.facebook.com/yieshengchen/posts/666539916745553?__cft__[0]=AZWe3D9KPbyaGkka7Sq6gUjY1Gz3fdCod9TkQMDzArrMrfIqZ34nywpyW194tMn7OUwTPBpQaVSVtF8MVcV13SErW3x3mDNWRdMmLispdXxyT8-BYYrvlSSra2K8ovYOVGMRuY5H0wSr-3kbseP1r4NI0SEC04KCALXsE4yfrxniWQ&__tn__=%2CO%2CP-R) Some of you may recognise this site as the European Southern Observatory’s Paranal Residencia
+* [2014年2月8日](https://www.facebook.com/yieshengchen/posts/666474053418806?__cft__[0]=AZX2uUO-WR2mhAMrSFm05_k1V5V3E8f5CtbN3yfz7KbEezeEHI-y-_jdKzjwN39GEs7a7gpA4pXb0F1M4P10ZoNIipixCj8yPrGnCR4CIUpHOefMvEDz750MQED7NgBc5ya4u69u_Cx_PSIy_wt9EU0t&__tn__=%2CO%2CP-R) 前幾天想到又查了一遍 prof leiserson 的這句話
+* [2014年2月8日](https://www.facebook.com/photo/?fbid=666465123419699&set=a.123296207736596&__cft__[0]=AZUZ-3EwF-uWQtoYyFW0JySe2hE7vmAH2s9la73JZl3SR4yxBzsH-HmzCdM5TisPyoZzKb5Se4QAu5UIhQn2nudnZVEt8pA73Fq1P2OhFL3SzhLCeQ9gf5_-uvsjN8GDsHBmNZKoT9bjgFaS4SZMkFZwYrKtFsJIWefiCdcSHSmvEw&__tn__=%2CO%2CP-R) IceCube, a giant neutrino detector
+* [2014年2月8日](https://www.facebook.com/photo/?fbid=666460680086810&set=a.123296207736596&__cft__[0]=AZUN1lAKQ1dN3R8zchmx-gH7bWWZN7s7oIcxZR8P92aegwA3o0eJToZnZJ9OBTQ01pprr2dzWnIZj9xexMU_ADkxxfRmY4gtCfJCP5jz_dDERYfYp11ObYBbhHit9mjKh927WlRPAZN_rroqr3xFxpRydwKwu3E_BgkpF8ddfjH05w&__tn__=%2CO%2CP-R) new-scientist-2014-02-08-feb
+* [2014年2月8日](https://www.facebook.com/photo/?fbid=666417770091101&set=a.123296207736596&__cft__[0]=AZUeH-r0bfHTK7kqFhtsgTiNJ3mObJPt8H-H9K3PU7QIoc0EmXcAfHww_7XmJtSjeTlh-GS5zA4S3CJn_QJJvY8kgu4hUx76NXl02hrmTGsJHtDEPQj3drlm5qYyiRZjGcSySD3ADhz5UvXOgecRC4lK6wy8Ck7jFKHoHbMXbZHX1w&__tn__=%2CO%2CP-R) Vanity Fair USA - March 2014
+* [2014年2月8日](https://www.facebook.com/yieshengchen/posts/666220943444117?__cft__[0]=AZWfa-R9lR2HBgRYH9mY9ssIdgu1MCAOU2hSEg3FUpq6h6Qdgs_vOyVmSreQeJ3ohQEUWEqetqzjdbhNKe0_GE3xEnrPuZ2yCcq110WCmd9N1BcMZa8lHA4GofOKdFk1085sZhA4BQhIlIID1dz3dJSIZETKJNKjQCjOS3BREF3g6g&__tn__=%2CO%2CP-R)
+* [2014年2月8日](https://www.facebook.com/photo/?fbid=666213200111558&set=a.123296207736596&__cft__[0]=AZU2QJzQvxWtDhh4WDXxQu8MEObXVsR7Stn-MkC0a_tmZs1IWNiZaDF5L7WKpoCH65-L-qRXXx4mxiqOSAgm0BZqbkMsNGBBkUNjg5_b4DNNBabHBJQ7-RGnlZ02EV-yp7-yAbBFcksDVVS3OVdIPhEK7CJQX9zoItvQGfjjyOmw1A&__tn__=%2CO%2CP-R) separated from the main city by the Kamo River
+* [2014年2月8日](https://www.facebook.com/yieshengchen/posts/666212900111588?__cft__[0]=AZXC-1Nr5zoDS-u09otDYfm1Nr9T5qgTRSipSs6jRGIKgDYbnaeWRhovpAgW4C_88EgZl-8Zg9j_YsaUc7DJeLW9h__Zuoqpvyk2WsBhUoJ8K2_eNBxV7JLMhDeYfaud3Lp7cl7wGExmbpUF3VW30ew1NPQMCAp4kpY7V5NS9ODqmA&__tn__=%2CO%2CP-R) 附近有一座橋騎經過的時候也有這樣的效果
+* [2013年2月8日](https://www.facebook.com/yieshengchen/posts/463400737059473?__cft__[0]=AZX5fMbWF0VAAr0f1NnH3yFur6n3sdEh8v4zhLa_lzqhefrRSiHVJO4seRkAdXGk_NyDewmER1JN231tf_YBjJkcHza6wvq3f737xDl6ORbw6Fk0B6i-iz_E6fVAiBj-EeKQRqP6dBpWW5L-rPdqo_Bu&__tn__=%2CO%2CP-R) "Hi, Happy Lunar New Year! We are going to Tainan. See u!"
+* [2013年2月8日](https://www.facebook.com/photo/?fbid=463327777066769&set=a.123296207736596&__cft__[0]=AZWRkgCT_Zlf5UqwtvCWGwcmcGWjmI1H0XR0dVnc6tHXWxSnZO8-S6LtP2DlA4wl0OR4ptyWfp0c5X8tbpyDWZjgeUCT5trj7Him168KFGAJGJNeivLzRoillkvfmEW1CljuEf2byGkDgq6LPFgs-P3j2ml1J20UChvC3246itVa2A&__tn__=%2CO%2CP-R) 這是第一趟拿到的奶油球;
+* [2013年2月8日](https://www.facebook.com/yieshengchen/posts/463327490400131:0?__cft__[0]=AZVwS3shVxgl91laFKGKGXOBxO5jA20lesDMR6Kot5wOHIppCa-i7rbTE-MvcjgNvC5D1CTdHTv7oJePJBi2RCX-d0aDsEkqLXYDslnQYlQxRfUkwZys-2as-HEBVUY1VsPECyxK7sdoEt-KbF2wsf9X6gMunZP3teP_GdPukedBww&__tn__=%2CO%2CP-R)
+* [2013年2月8日](https://www.facebook.com/yieshengchen/posts/463323557067191?__cft__[0]=AZVG9rfeqRiLYxk-fNNcPcNg70C1pqL-q9ya1OeToRJtbUV6fQjzdW3DjvazBRXNnd8SzTCz9zr_esuz91UE0-l3FVgWQ4JDvtxNdzin__1VSLf2TG3jz3Y8blAzGnioyxyabgsPFYkgf4nQmXPBDNe-&__tn__=%2CO%2CP-R)
+* [2013年2月8日](https://www.facebook.com/yieshengchen/posts/463206110412269?__cft__[0]=AZWDjSCFd-aiawORzxns0JFkADURoMqGaYYL2XgHtl_QlwtJzM-YoSO5AGLq9D_Y6EaJj8t0ybj8CFCaYwSRNJPU4iXXpYmS2fC1L3CkyUgpj1lWolJ50qoWYAHiJjtbkfaJvy7U6wMerZE3BL0iotqY&__tn__=%2CO%2CP-R)
+* [2012年2月8日](https://www.facebook.com/yieshengchen/posts/281445795254969?__cft__[0]=AZXb8qViZ7QElFK1H8h6iCeW-UF2_QhVtMPTUooFh4FV0VH61PsAE-rcQaI28hLBQcw2pBSVLJJ_36qdhAoL7gBdruwWM8fUJNkfTdLHKoV7h6EUB1d-Hm0Kel2u5C1TshxzCmB3NdDOwxDDMNlM5MnE&__tn__=%2CO%2CP-R) 覺得 gnv 這裡裡一直到凌晨兩點都有公車~ 很神奇呀
+* [2012年2月8日](https://www.facebook.com/yieshengchen/posts/281122161953999?__cft__[0]=AZW0UZ4ByZkW-1pzYPcNCPeX9V8CEfqAW1E1qyoi1Zq8VGQ_U7_lGSsGwdVzk5BD98TELCzoruOGiGul2vOumfjlH6kX8pgTpk565CRrK8YfyJWOYzbrwY5vbD_Pj2OM53OF06FxMnni2ovpz6mUYt8K&__tn__=%2CO%2CP-R)
+* [2012年2月8日](https://www.facebook.com/yieshengchen/posts/281122161953999?__cft__[0]=AZW0UZ4ByZkW-1pzYPcNCPeX9V8CEfqAW1E1qyoi1Zq8VGQ_U7_lGSsGwdVzk5BD98TELCzoruOGiGul2vOumfjlH6kX8pgTpk565CRrK8YfyJWOYzbrwY5vbD_Pj2OM53OF06FxMnni2ovpz6mUYt8K&__tn__=%2CO%2CP-R) code division multiple access
+* [2012年2月8日](https://www.facebook.com/yieshengchen/posts/281076315291917?__cft__[0]=AZXTKeMdqd5IdJJMg1-gqGpSmsgOoEs0KQmgtFYuM8bENVfae4e74cEeCE0ImPYr6wUyCYe7CcrSzGXTAOK4TF6pgnGEfQJr_AsQ4_bFQDsENB6YX_xx58nstguH43RMkLDCBpaOo4athn1FzKUbzSLh&__tn__=%2CO%2CP-R)
+* [2011年2月8日](https://www.facebook.com/yieshengchen/posts/133571440042406?__cft__[0]=AZWOZlnN6VAIec-__uzTNr8t5tyzHajl8ehEci_m1k_4BSsqkdpjCen6Dnn-q3rxNsCPxeDY8ELwhZhAC6KY1bqvygS6yLrfB6RRTWR5E6em7qFHDEIAhwOIK0UpePZ7uo_PbCsO9R_w2P-f0wh87T-8&__tn__=%2CO%2CP-R) WEB書
+* [2011年2月8日](https://www.facebook.com/yieshengchen/posts/199388933409459?__cft__[0]=AZWHBFzfmo-KdyhFBi51TUpWTjCuvtSqsG9FdZanfs3HQijgAVZYEcSyt01BVgLkRv44zWrBCGj9gBCQBbcV_mHw6Ok6xyYJeFB5pMLlTC-SyGB0jdtNYLSYBpzxBL6EnOQAny-PzaDL9DntFHGjZzqn&__tn__=%2CO%2CP-R) 同時也在找工作
+* [2014年2月9日](https://www.facebook.com/yieshengchen/posts/667198440013034?__cft__[0]=AZVAxD0TAh4aa9r0hGOmODf8-ItXHlBX4MNg4vZ2SoOcnZWMZGGXRRVkc92DkbfolWMZ0_Lg41BZLD-u365plE-vY-AUojLvrsRbwnhFx9Y8mJo2tc3xIL8WtXiIHOEAO6TC_yE6c8tMklVuk50nD8fu&__tn__=%2CO%2CP-R) 聽 mike 一說才發現這好像是大一程設的題目
+* [2014年2月9日](https://www.facebook.com/yieshengchen/posts/667101416689403?__cft__[0]=AZU37zbHkRTZto-UKpHOYve4QdRSpBxawsZBqXmo5ecOtsMdoYZR5BWtNIsLLAyaMI3bEO40DECvtQ-oCUnjeC-q1SNjJ4xS9-VBFZLE9V0U7Vk-TiWG4esOXc36P5NyP5UhioEtyLmmuRyLfu7HzhEBN_hDfWlAquZZ5bVlHh-mFA&__tn__=%2CO%2CP-R) 周末有租車本來想說 mike 搬家順便幫他載 ; 沒想到一台 fit 幾乎就夠了
+* [2014年2月9日](https://www.facebook.com/yieshengchen/posts/667100150022863?__cft__[0]=AZV6imvA-vx4nnaEoZBmNV3MMf9AweObhnY3_RlzCtA_ZtfpBs3l2bWtWigLOh6vdwiO-baA808dFlmEGgpPMsuVTAMOAfys_8CS4T9dFr-64ksbgLCfSc2R3qu4CS4UXj4ykkPLm8aD5O2RNRYyNKd5e_-rf3GctgwiV3coGvL-3Q&__tn__=%2CO%2CP-R) 沒想到一台 fit 幾乎就夠了
+* [2012年2月9日](https://www.facebook.com/yieshengchen/posts/281856478547234?__cft__[0]=AZVsFdeRjqCPWKVAE7q5J7Ml4N6eLZ32YQcWY9cvs8jn59JpsGOk-uFjFgV3Ptj_rT5u2ewTcijtdD7nTA9Tby5eHoC0eMKigs8aVlPPI5uO4Zf25LJPsDLJgvE9sYI6vjq2xWpNrNZ2_-J1WkHj4Swn&__tn__=%2CO%2CP-R) ubuntu runs so smoothly 
+* [2012年2月9日](https://www.facebook.com/yieshengchen/posts/281731188559763?__cft__[0]=AZVCJDy58ATLT98OUquzNM22eECM5nR4EGlrgBLZvMkpayDB2XBGjHtW1crDeIbndQURPWM4Z8WWPBEcVbaHIeYSdwOPiUiUb5wzJRQoYiCaff1fkR-lNwoWXSSMjrPG6qIj2FVyGd2_cBk_-Q-UqIsq&__tn__=%2CO%2CP-R) 最近一次喝美研社的玫瑰花茶是;出國的前兩三個禮拜呀到第一家 seven 居然還沒找到
+* [2012年2月9日](https://www.facebook.com/yieshengchen/posts/281724111893804?__cft__[0]=AZU3LuEAAEU7dT0HZhsdFFs5lVcoMD3_Biy2a_zxCynIMnFESjWQGyn-6CfzHgeKqOqfdhJudL6-7ja6oG0eRvr3qYHlHCSqqp3TEGBR-94g31L1rBwfi-rr1bz-LAWRKHq8V_FVmazpDEuRh382kid_&__tn__=%2CO%2CP-R) 今天 krishna 午餐的花茶味道好熟悉
+* [2012年2月9日](https://www.facebook.com/yieshengchen/posts/281681448564737?__cft__[0]=AZXcmoR454dm_xQN404jPYhaVb75WWiRncVk804o-VOxhextNLM5_iKG-lKEoJcHyGI7ibdByHcT3yt7-hvJ6RpdKkPT3ooiyURdvjB2GUBvoUiwRcepPl714vf5Hc8wxamSrMaZt8SSmMdKZ5gkfTH6&__tn__=%2CO%2CP-R) 投影片: ; http://www.math.psu.edu/andrews/geapresentation4.ppt
+* [2012年2月9日](https://www.facebook.com/yieshengchen/posts/281579535241595?__cft__[0]=AZUm_qpjACDN6D25ujWo4DwXx4X-704VkbKu7tkm3bO4n4P3vytYHRYtLdKr6oIiOsJNasOoFQkvyNCwEsxFJOMHe78fVXNTRGkhMfzIUm1lJX44awXQ2ru2pwXpj-Vlb2yKjuGjV-GfTFe4J-F8qdU3&__tn__=%2CO%2CP-R) 早餐: 蕎麥麵+ 微波韓國水餃+ 橘子
+* [2013年2月8日](https://www.facebook.com/photo/?fbid=463327777066769&set=a.123296207736596&__cft__[0]=AZUDQaGfxsFAyW9fKpoZ9ME7TzS1ynRoiGVOXxlg4BMKHaKEVabc2alhgIUmJsLci17RrhOCHO4IB-VugfGsA4za5JngZFo-AlDycOPW9oC8LFOBlnM2nlAVd0tzIdYRovTT7Dav9Iros9oqq2Hxs1eTitkzkxo8g94UaXBoGG6QLQ&__tn__=%2CO%2CP-R) 這是第一趟拿到的奶油球; 
+* [2017年2月10日](https://www.facebook.com/yieshengchen/posts/1363118707087667?__cft__[0]=AZUE59pD8dA5j6ock7LEExgABx_w6hDSyAJZ9By_dVS53VMOCjag4I8vkMOD30R2TkICAgb1WUGxwehutdRid8yGeEmQrnzrfgfOc3GGb1iBYnXNudQxVNisN4KwsIyeqCgpF-4TmdIdYO1eBrTIMI9JWFD8X_j84RKOp8IWlbpIoA&__tn__=%2CO%2CP-R) zf AR, tango constructor
+* [2017年2月10日](https://www.facebook.com/yieshengchen/posts/1363106190422252?__cft__[0]=AZV5GTW7Q1KbBW0EVF39i9T_BXNmM1GsT2tFWB-L1GTp6SzBiSe5DHj-qAZ_1oQoiB1FDLdloT5QgpXbCukvj3BxLFbSWJbwwKMBhAE2JbnM2UZvlzUDmO7SQP8VfUao0igfCw99NHxXQAN8n_uuIhSOaUzgveQm0KQjMLVO1J0XWw&__tn__=%2CO%2CP-R) speculation vs 意想不到 (==misprediction?)
+* [2014年2月10日](https://www.facebook.com/yieshengchen/posts/667682869964591?__cft__[0]=AZXGVheS1mrnll0-rgutsEHbd1Fd5hYCC1HZHBdT8GZQxXTFO6OVr2yIJIH0KJZO6YxJOpAN9Z5MYYb5QcPIsXusEyOPJsdZkjqB9oxEAUtsT_swPV9tIyG4qTGNu6eiWVCfKapotteOaA_IFWcypmPz&__tn__=%2CO%2CP-R) 昨天和小時候鄰居吃飯
+* [2014年2月10日](https://www.facebook.com/yieshengchen/posts/667590779973800?__cft__[0]=AZWZmX9D2eekTbzz6xsHdkX6c8c8xnzRXdrNY_qlEw8h_vAqdIlygCe-PGDr0sKM8KbjJiQN1zU-bv3ODJmGQ9D1OB4iP9QjD9tjNNOV6vDQe2ZhnauLDgKG0omuzm3KdmpGb08Re-U-leSilaOJf44WDw8EFtnWmmqUyI_d3wKHSQ&__tn__=%2CO%2CP-R) value of edit dist ; 好像有錯?
+* [2014年2月10日](https://www.facebook.com/yieshengchen/posts/667224600010418?__cft__[0]=AZV7KXp_2XG1C-jtpb5OZJhfn82QkFpBy7ob2h3ikvVF8N0xiqgoWzTevcQ1k9qsPUYAff2DhrqI48EiFnNEWNuYCuZSYighfqufd4VWX8Z2fdBsU_MMFOgcN14LXwljs-IXdF0IpyhJH--YBE0Z2AJ7aHUHxxgmVhuz1e0X7idVAQ&__tn__=%2CO%2CP-R) 在 mike 的客廳睡睡袋;一早起來都會有種平靜的感覺;今天是聽到那窗簾葉片被風吹動的聲音
+* [2012年2月10日](https://www.facebook.com/yieshengchen/posts/282483765151172?__cft__[0]=AZX6EXfVdLeDgYSfiXt2fn4YpgWsqEL9Hgn6JkYGhFJa6035d71YyVqQV-RTVyvwkMDOhHVIXcIb40nQLnYJuHq2Givec9g1XmK2MgqaXDa4eP9HY85Q5KQqYS_I_mNg4AkFBoT8SLCR81ZV4MXFH5_8&__tn__=%2CO%2CP-R)
+* [2012年2月10日](https://www.facebook.com/yieshengchen/posts/282454345154114?__cft__[0]=AZXyxlDJG93AN08wSx93ist1HU9kHzCepMvNGYVcle5qo6xPlm1nXyA5HOw-JOgoI4vQlmWC9FBik40bV5Vle1HbXMtAkntZ_13_hkXx4okJKGICJKbk5MDbhz2vfc8Sv256EsGQMpG8Ko9pxdB8qKMv&__tn__=%2CO%2CP-R)
+* [2012年2月10日](https://www.facebook.com/yieshengchen/posts/282451578487724?__cft__[0]=AZUUfiWD5BQToGH0417Bdja_LcRTYnb0UIcbTxcB9AJyMuPUFHeRo_SPZKezGJ0GCrhTxCP2HIWYw2wRKIfxF4MeW5VlOhB0ud84vZKtiDMwX4McXtpW94mTanP9nXfvvobxCw_hiwgHj745gfpVf346&__tn__=%2CO%2CP-R) 星期三上課的時候 prof Fishwick 用 gold mine 形容;劉炯朗校長好像也說過 fire hose?
+* [2012年2月10日](https://www.facebook.com/yieshengchen/posts/282448605154688?__cft__[0]=AZVtiBohKrALf8_aQ2RPwnogOrRIvdcCNpklECrChBLx71m4g9Sxi7UKMdnoQZH71cH1AygVr5ehjdd3Rkr2EqG8jOiwsFAuaEXQuWP7_8dvVOY5ZLNrAH44-Yj-oB-CBCqTl8uBWwD3Sgm8QKkawzXb&__tn__=%2CO%2CP-R) Ph.D., 1996, Utsunomiya University
+* [2012年2月10日](https://www.facebook.com/yieshengchen/posts/282440955155453?__cft__[0]=AZW0bA6EVfRIq_LbTJvdEPQalZBi3tqnZL0OVacPbHvIpCS8DlRsRzR7VscGIwd9xVP1Pe3gDGLmQju2yrrWnM03Mxfe2hTe2kqpakH5O3ofHYd3s6AmIyxoTRJErWlIQMpQaFOFheQTYsbu7rjYShca&__tn__=%2CO%2CP-R) does that make sense
+* [2012年2月10日](https://www.facebook.com/yieshengchen/posts/282417101824505?__cft__[0]=AZWvnaIU26gHtBKDDbuyurdAJ3Sw3GuHoW3XyYRwLUZjNWG77P-RMw4W6M4WMHkH0I-TelKe5DsT_Eb_TjehJnXUrkVlhuUWfhwrPd2Qsy-jW-XFKgLAuL_xQlRPym7YRF3R1dvTTu8vzsxlZFOBTFQZ&__tn__=%2CO%2CP-R) tebowmanic
+* [2012年2月10日](https://www.facebook.com/yieshengchen/posts/282413738491508?__cft__[0]=AZVZ2LBmIZKhfLjLjBSJiPbe-80sumS_ctG8ZSWyl62KgY4cdHSgwrHKJ8m2iVC2pKHEf5m2RR28CB3xKzOa4MmeWeSPoOoUn50mFXcirT19KS5-PBMR3__HMGpwqOT5pA3tdtF5VVoZezdh1MBLuFd5&__tn__=%2CO%2CP-R) "just pass four or five guy"
+* [2012年2月10日](https://www.facebook.com/yieshengchen/posts/282352825164266?__cft__[0]=AZXoEM4azqW5fHFVqrrnTAwA20ISerWdwVinUxALuTyl1CetiVpWYjlnFIJFwpbN-CbDUJLR9DBIAbe7zf29RdFZv5q4wKX1dmADLsurIKnZ2ENRz6Kmy4Wj3Ue3SDip6_8Snb8h3c6AdZ5w7HzIJIrx&__tn__=%2CO%2CP-R) 教室裡空氣流動的感覺好像和圖書館裡不太一樣;好可惜 qq, 三分之一已經過去了
+* [PXL_20220208_011332489](https://www.facebook.com/photo.php?fbid=4980865891979579&set=p.4980865891979579&type=3&av=100001686510997&eav=AfYBHLqBNZSEpqm0eUvm31eT4ozoWyNNTPgsksbAostD7NU49CM6qdswU644Ae6_9E8) How do I convert a MD file to PDF?
+* [PXL_20220203_052358554](https://www.facebook.com/photo.php?fbid=4980958801970288&set=p.4980958801970288&type=3&av=100001686510997&eav=Afa3fe3_zreJ8sTHxpsZJmB7H8B3uzadSdYFcIQVbsVb08mr32WD85sCFHl3qqV7e1g) 晚上十一點從新潟發車的深夜巴士會在清晨四點半抵達東京。
 * []()
 
 
@@ -688,6 +732,9 @@ $ youtube-dl --version
 * [PXL_20220125_175546729](https://www.facebook.com/photo.php?fbid=4948633995202769&set=p.4948633995202769&type=3&av=100001686510997&eav=AfY4LqHTbEk1Sgnyua1ntnDYg5H2GuxTIezGK9vlnBcyLaq_dt23TXsAl-SqCPYERjs) Reading: 1.1-1.2 from Turtle Geometry ; Curved Space and General Relativity
 * [PXL_20220205_223450401](https://www.facebook.com/photo.php?fbid=4971844036215098&set=p.4971844036215098&type=3&av=100001686510997&eav=AfZn3fcnfuhbeTxXL_kkZAN3NdYV0vf3k2mCDpoH_AJ_q-hgpPptD9MOBJMf2Fcqhpo) the identity production
 * [PXL_20220204_212255403](https://www.facebook.com/photo.php?fbid=4971786919554143&set=p.4971786919554143&type=3&av=100001686510997&eav=AfaHuPsZ8oA5u94H5Z4le8zCaJ4mRzcxGEtHBcKJBcSZsAHKAHPyL8cOy-OdPfhJ7HE) And seeing you mention city makes me wonder what will the city life be like and that also resembles anthill to me.
+* [PXL_20220210_225322295](https://www.facebook.com/photo.php?fbid=4986696411396527&set=p.4986696411396527&type=3&av=100001686510997&eav=AfZzH5_t-gWWbElYs6dOwJDhzkdX9XMEiWCj79mpLe2tfxNR_nyixWY0QJSwGZs7uyg) but kelp and other algae belong to a separate kingdom of life from plants, called protists.
+* [PXL_20220208_222852561](https://www.facebook.com/photo.php?fbid=4980970165302485&set=p.4980970165302485&type=3&av=100001686510997&eav=AfYCk8qeKIXC8FZJGxDUfWoE9Ub0ywzAGuYjUuVRBit1cnoWS6ywEbmCHqF2_-K_Euc) Shibuya station appears like an egg-shaped chichusen
+* [PXL_20220201_003238701](https://www.facebook.com/photo.php?fbid=4980933818639453&set=p.4980933818639453&type=3&av=100001686510997&eav=AfbMoq9kUbbM_7eNDCV8SBcBe18BQMfsU-oxLzBjf5S8MxAZ6OUtMB6ttZDDmXsxrzE) What does Zia mean in New Mexico?
 * []()
 *  
 
@@ -732,6 +779,7 @@ $ youtube-dl --version
 * [PXL_20220203_215437012](https://www.facebook.com/photo.php?fbid=4964802846919217&set=p.4964802846919217&type=3&av=100001686510997&eav=AfYdq-e40VRsUkCYqi1RPDxFL7cXZz6kMm74q7Qo7VKhGUPe6quTcrHQk_2K36gNxGs) Time Used: 3 hours, 52 minutes out of 7 hours
 * [PXL_20220203_213426726](https://www.facebook.com/photo.php?fbid=4964482916951210&set=p.4964482916951210&type=3&av=100001686510997&eav=AfYVjHmEI-W3QstAQxZRS7YbFUnepk6Km5jp2EYyYEsWoVBO8QrPViKTHtVKHp-s_08) kurose_ross/interactive/ps_versus_cs.php
 * [PXL_20220130_203154489](https://www.facebook.com/photo.php?fbid=4952171048182397&set=p.4952171048182397&type=3&av=100001686510997&eav=AfYKMHhnt--sNMvwfdZqnquuFW1IhOims5OcA9aTwLs82AygckSXd6T-cT65T1cYZQU) Network Structure 5 : adding content-provider networks
+* [PXL_20220208_212252741](https://www.facebook.com/photo.php?fbid=4980920735307428&set=p.4980920735307428&type=3&av=100001686510997&eav=AfZCVFcg5RIHgOXAB9BOabRivulA_yjWOvnSAaogm30o-XPaAvO9f441AdB87IDm4bQ) 2.2.4 User-Server Interaction: Cookies
 * []()
 *   
 
@@ -879,6 +927,11 @@ Centennial Engineering Center | Room 1032
 * [PXL_20220130_211213470](https://www.facebook.com/photo.php?fbid=4974660205933481&set=p.4974660205933481&type=3&av=100001686510997&eav=AfZBMp9Eu5Gx2LntNpLVik6pxUrgvq-HgGo4N9uuUpkgXKu5fNzU_0bIiaFDW-sfhsI) Pseudo Random Numbers in Digital Hardware
 * [PXL_20220130_211313923](https://www.facebook.com/photo.php?fbid=4974641245935377&set=p.4974641245935377&type=3&av=100001686510997&eav=AfajJUABUAZIo5X3-ESytFKkxocBwn2C0kD1eE6Xbeg7TMDKhilEgVsZf1vcbECKQoE) PARALLEL DISCRETE EVENT SIMULATION: THE MAKING OF A FIELD
 * [PXL_20220126_224125554](https://www.facebook.com/photo.php?fbid=4952108324855336&set=p.4952108324855336&type=3&av=100001686510997&eav=AfYVICL86IAE5fPTDe8nYSFmUz16FUWiF9Cs3SkkZi7T3AMKtSCImIEZVJEjAJN_yVU) S22/580S/L02-0126W22.txt
+* [PXL_20220208_192821073](https://www.facebook.com/photo.php?fbid=4979549578777877&set=p.4979549578777877&type=3&av=100001686510997&eav=AfbuQMwXwf8f5P1P4RKuoQrfG3dkv1CaNuDveOvnpZnzTPmzjvK4QwXwsUq4yPUCtJw) Exercise 2.6 Argue that this program implements a weak semaphore
+* [PXL_20220203_014831765](https://www.facebook.com/photo.php?fbid=4980890051977163&set=p.4980890051977163&type=3&av=100001686510997&eav=Afbux-G-GXd1RhFcNg6wW5itqrdp-MEEH0ymeec4dHdCF3ilhQp1Y6jUuxmaVyegFXY) For all-- that's the upside-down A
+* [PXL_20220208_004151830](https://www.facebook.com/photo.php?fbid=4980908845308617&set=p.4980908845308617&type=3&av=100001686510997&eav=AfaUFmSeBpLbAj4E2jBIWip3eDsmEFIC7ekbqOX68NXP5_nQObfTwO1lRBJlpyq28ys) A program model based on assignments and without control flow has remarkably nice properties.
+* [PXL_20220209_005847241](https://www.facebook.com/photo.php?fbid=4980978541968314&set=p.4980978541968314&type=3&av=100001686510997&eav=AfaHAvE0dTpOEUTDV-NDuDI7k5iSmEnohrm-BxeG5JYCDFyB2N219osqTiB6tIrA61E) Binary semaphore have no ownership.
+* []()
 * 
 
 #### ?q=is+agile+just+hacking+around&
@@ -940,6 +993,27 @@ the zero value
 For multiplication it would default to 1, for union to empty, etc.
 ```
 
+
+```
+Spanning Tree Solution outline
+Program Spanning Tree
+
+declare T, G : array[1..N, 1..N] of boolean
+     [] r : integer
+always
+   < [] i : 1≤i≤N ::
+            tree(i) = (i = r)  < $ j : 1≤j≤N :: T(j,i) >
+initially
+        1 ≤ r ≤ N
+     [] T = 0
+     [] < [] p,q : (1,1)≤p,q≤(N,N) :: G(p,q) = G(q,p) >
+assign
+   < [] p,q : (1,1)≤p,q≤(N,N) Ù G(p,q) ::
+                  T(p,q) := 1 if tree(p) ? ¬tree(q)
+   >
+end
+```
+
 ```
 Program {in the equational schema} P2
 declare H: array[0..N-1, O..N-1, O..N]
@@ -999,6 +1073,8 @@ Title: Colloquium
 * [PXL_20220114_234023968](https://www.facebook.com/photo.php?fbid=4902622399803929&set=p.4902622399803929&type=3) Talk Title: Algorithmic Programmable Matter
 * [PXL_20220119_220813918](https://www.facebook.com/photo.php?fbid=4903900409676128&set=p.4903900409676128&type=3&av=100001686510997&eav=AfZYJMqydtb5b0euDOp_ScCYF0GOVnUmswikGaQNoJDvZkqqJ0HBbwgFsWaR5KRIPEk) Markov Chain Algorithm for Compression in Self-Organizing Particle Systems
 * [PXL_20220125_185230073](https://www.facebook.com/photo.php?fbid=4930400453692790&set=p.4930400453692790&type=3&av=100001686510997&eav=AfblKOJB9UHLMXfu8vZOrn1h17cg5O1AJpq-VVG0gKiDQfUhEwEfiHIf2RJ6PytPKUA) whether folds into anything, it turns out to be NP-hard
+* [PXL_20220209_212651189](https://www.facebook.com/photo.php?fbid=4983535525045949&set=p.4983535525045949&type=3&av=100001686510997&eav=AfYGy00D0yNbMpOlzuCB8DitadtkDup_7jYd91SLLspYYSaJPMFbvQOEpfc631qiczc) A Mind at Play: How Claude Shannon Invented the Information Age is a biography of Claude Shannon
+* [PXL_20220207_231013189](https://www.facebook.com/photo.php?fbid=4977620462304122&set=p.4977620462304122&type=3&av=100001686510997&eav=Afa_07V3Yw5IQzD9hJp4imOjOS3J3xsIhTDl5aCFEGpBJNWEt4Zj8G--TcQNdzzhpV4) So it can't wait for a message to be before doing something. It'll just wait. Forever and won't be correct.
 * []()
 
 
