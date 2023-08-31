@@ -11,7 +11,7 @@ title                    : "Yie-Sheng Chen"
 title_separator          : "-"
 name                     : &name "Yie-Sheng Chen"
 description              : &description "PhD Student in Computer Engineering at the University of New Mexico, NM, USA."
-url                      : https://aisharahman.github.io/
+url                      : https://speculaas.github.io/mdnotebooks/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "speculaas/mdnotebooks"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
